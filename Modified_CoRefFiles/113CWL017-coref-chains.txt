@@ -1,0 +1,31 @@
+-----COREFERENCE CHAIN SUMMARY-----
+-----------------------------------
+
+Coreference chain starting at ID 907,PRN: I
+  (1) NounChunk 1546 1567 1584 Richard Dickinson
+  (2) Person 1545 1567 1584 Richard Dickinson
+  (3) PRN 904 492 493 I
+Coreference chain starting at ID 908,PRN: you
+  (1) NounChunk 1456 76 82 Friend
+  (2) PRN 912 1222 1225 you
+  (3) PRN 914 1485 1489 your
+  (4) PRN 915 1596 1599 You
+  (5) PRN 905 499 502 you
+Coreference chain starting at ID 911,PRN: we
+  (1) NounChunk 1521 1091 1119 the Boys
+      & Girls Clubs
+  (2) Organization 73 1095 1135 Boys
+      & Girls Clubs of Indianapolis
+Coreference chain starting at ID 3,Organization: BOYS & Girls Club OF INDIANAPOLIS
+  (1) Organization 22 194 228 Boys & Girls clubs of Indianapolis
+  (2) Organization 106 1670 1704 Boys & Girls Clubs of Indianapolis
+  (3) Organization 73 1095 1135 Boys
+      & Girls Clubs of Indianapolis
+Coreference chain starting at ID 52,Organization: Super Summer Safari Camp
+  (1) Organization 2004 691 715 Super Summer Safari Camp
+  (2) Organization 65 1002 1026 Super Summer Safari Camp
+Coreference chain starting at ID 2000,Location: INDIANAPOLIS
+  (1) Location 2001 216 228 Indianapolis
+  (2) Location 2002 1123 1135 Indianapolis
+  (3) Location 2003 1692 1704 Indianapolis
+  (4) Location 86 1277 1289 Indianapolis

@@ -1,0 +1,1923 @@
+<cesAna xmlns="http://www.xces.org/schema/2003" version="1.0">
+  <struct to="228" from="220" type="Organization">
+    <feat name="id" value="40001"/>
+    <feat name="graf:id" value="ne-n2"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="type" value="other"/>
+    <feat name="graf:edge" value="penn-n36 "/>
+  </struct>
+  <struct to="1345" from="1343" type="PRN">
+    <feat name="id" value="1728"/>
+    <feat name="matches" value="[1730, 1729, 1726, 1734, 1727, 1733, 1725, 1731, 1735, 17122, 17123]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="me"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="objective"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1352" from="1350" type="PRN">
+    <feat name="id" value="1729"/>
+    <feat name="matches" value="[1730, 1728, 1726, 1734, 1727, 1733, 1725, 1731, 1735, 17122, 17123]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="my"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="possessive"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1222" from="1221" type="PRN">
+    <feat name="id" value="1726"/>
+    <feat name="matches" value="[1730, 1728, 1729, 1734, 1727, 1733, 1725, 1731, 1735, 17122, 17123]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1277" from="1276" type="PRN">
+    <feat name="id" value="1727"/>
+    <feat name="matches" value="[1730, 1728, 1729, 1726, 1734, 1733, 1725, 1731, 1735, 17122, 17123]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1130" from="1128" type="PRN">
+    <feat name="id" value="1724"/>
+    <feat name="matches" value="[1717, 1718, 17086, 1719, 17087, 1722, 1723, 1720, 1721]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="my"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="possessive"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1190" from="1189" type="PRN">
+    <feat name="id" value="1725"/>
+    <feat name="matches" value="[1730, 1728, 1729, 1726, 1734, 1727, 1733, 1731, 1735, 17122, 17123]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1073" from="1072" type="PRN">
+    <feat name="id" value="1722"/>
+    <feat name="matches" value="[1717, 1718, 17086, 1719, 17087, 1724, 1723, 1720, 1721]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1115" from="1114" type="PRN">
+    <feat name="id" value="1723"/>
+    <feat name="matches" value="[1717, 1718, 17086, 1719, 17087, 1724, 1722, 1720, 1721]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="978" from="976" type="PRN">
+    <feat name="id" value="1720"/>
+    <feat name="matches" value="[1717, 1718, 17086, 1719, 17087, 1724, 1722, 1723, 1721]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="my"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="possessive"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1041" from="1039" type="PRN">
+    <feat name="id" value="1721"/>
+    <feat name="matches" value="[1717, 1718, 17086, 1719, 17087, 1724, 1722, 1723, 1720]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="my"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="possessive"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="864" from="863" type="PRN">
+    <feat name="id" value="1717"/>
+    <feat name="matches" value="[1718, 17086, 1719, 17087, 1724, 1722, 1723, 1720, 1721]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="889" from="888" type="PRN">
+    <feat name="id" value="1718"/>
+    <feat name="matches" value="[1717, 17086, 1719, 17087, 1724, 1722, 1723, 1720, 1721]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="948" from="947" type="PRN">
+    <feat name="id" value="1719"/>
+    <feat name="matches" value="[1717, 1718, 17086, 17087, 1724, 1722, 1723, 1720, 1721]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="678" from="676" type="PRN">
+    <feat name="id" value="1713"/>
+    <feat name="matches" value="[1708, 1709, 1714, 1707, 1716, 1710, 1711, 1712, 17058, 17057]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="my"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="possessive"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="709" from="708" type="PRN">
+    <feat name="id" value="1714"/>
+    <feat name="matches" value="[1708, 1713, 1709, 1707, 1716, 1710, 1711, 1712, 17058, 17057]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="735" from="731" type="PRN">
+    <feat name="id" value="1715"/>
+    <feat name="matches" value="[]"/>
+    <feat name="person" value="third"/>
+    <feat name="cls" value="Location"/>
+    <feat name="string" value="here"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="objective"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="740" from="739" type="PRN">
+    <feat name="id" value="1716"/>
+    <feat name="matches" value="[1708, 1713, 1709, 1714, 1707, 1710, 1711, 1712, 17058, 17057]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="600" from="599" type="PRN">
+    <feat name="id" value="1710"/>
+    <feat name="matches" value="[1708, 1713, 1709, 1714, 1707, 1716, 1711, 1712, 17058, 17057]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="633" from="632" type="PRN">
+    <feat name="id" value="1711"/>
+    <feat name="matches" value="[1708, 1713, 1709, 1714, 1707, 1716, 1710, 1712, 17058, 17057]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="665" from="664" type="PRN">
+    <feat name="id" value="1712"/>
+    <feat name="matches" value="[1708, 1713, 1709, 1714, 1707, 1716, 1710, 1711, 17058, 17057]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="274" from="270" type="PRN">
+    <feat name="id" value="1704"/>
+    <feat name="matches" value="[1698, 1705, 1703, 1766, 1695, 1697, 1772, 1700, 16996]"/>
+    <feat name="person" value="second"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="your"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="possessive"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="322" from="318" type="PRN">
+    <feat name="id" value="1705"/>
+    <feat name="matches" value="[1704, 1698, 1703, 1766, 1695, 1697, 1772, 1700, 16996]"/>
+    <feat name="person" value="second"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="Your"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="possessive"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="242" from="240" type="PRN">
+    <feat name="id" value="1702"/>
+    <feat name="matches" value="[16994, 1751, 1759, 4001]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="We"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="plural"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="251" from="248" type="PRN">
+    <feat name="id" value="1703"/>
+    <feat name="matches" value="[1704, 1698, 1705, 1766, 1695, 1697, 1772, 1700, 16996]"/>
+    <feat name="person" value="second"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="you"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="objective"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="510" from="509" type="PRN">
+    <feat name="id" value="1708"/>
+    <feat name="matches" value="[1713, 1709, 1714, 1707, 1716, 1710, 1711, 1712, 17058, 17057]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="560" from="559" type="PRN">
+    <feat name="id" value="1709"/>
+    <feat name="matches" value="[1708, 1713, 1714, 1707, 1716, 1710, 1711, 1712, 17058, 17057]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="495" from="494" type="PRN">
+    <feat name="id" value="1707"/>
+    <feat name="matches" value="[1708, 1713, 1709, 1714, 1716, 1710, 1711, 1712, 17058, 17057]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="178" from="175" type="PRN">
+    <feat name="id" value="1700"/>
+    <feat name="matches" value="[1704, 1698, 1705, 1703, 1766, 1695, 1697, 1772, 16996]"/>
+    <feat name="person" value="second"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="you"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="objective"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="3075" from="3056" type="NounChunk">
+    <feat name="id" value="17248"/>
+    <feat name="graf:id" value="nc-n178"/>
+    <feat name="matches" value="[1699, 17247]"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n597 penn-n596 penn-n595 penn-n594 "/>
+  </struct>
+  <struct to="3085" from="3076" type="NounChunk">
+    <feat name="id" value="17249"/>
+    <feat name="graf:id" value="nc-n179"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n598 "/>
+  </struct>
+  <struct to="3075" from="3056" type="Person">
+    <feat name="id" value="17247"/>
+    <feat name="graf:id" value="ne-n18"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="gender" value="male"/>
+    <feat name="graf:edge" value="penn-n594 penn-n597 penn-n596 penn-n595 "/>
+  </struct>
+  <struct to="3031" from="3026" type="NounChunk">
+    <feat name="id" value="17246"/>
+    <feat name="graf:id" value="nc-n177"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n590 "/>
+  </struct>
+  <struct to="3025" from="3017" type="NounChunk">
+    <feat name="id" value="17244"/>
+    <feat name="graf:id" value="nc-n176"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n589 "/>
+  </struct>
+  <struct to="3013" from="2998" type="NounChunk">
+    <feat name="id" value="17243"/>
+    <feat name="graf:id" value="nc-n175"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n587 penn-n586 penn-n585 "/>
+  </struct>
+  <struct to="1006" from="998" type="NounChunk">
+    <feat name="id" value="17075"/>
+    <feat name="graf:id" value="nc-n55"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n192 "/>
+  </struct>
+  <struct to="2982" from="2965" type="NounChunk">
+    <feat name="id" value="17242"/>
+    <feat name="graf:id" value="nc-n174"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n582 penn-n581 penn-n580 "/>
+  </struct>
+  <struct to="2959" from="2955" type="NounChunk">
+    <feat name="id" value="17241"/>
+    <feat name="graf:id" value="nc-n173"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n577 "/>
+  </struct>
+  <struct to="1031" from="1017" type="NounChunk">
+    <feat name="id" value="17077"/>
+    <feat name="graf:id" value="nc-n56"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n196 penn-n195 penn-n194 "/>
+  </struct>
+  <struct to="2949" from="2943" type="NounChunk">
+    <feat name="id" value="17240"/>
+    <feat name="graf:id" value="nc-n172"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n575 "/>
+  </struct>
+  <struct to="948" from="947" type="NounChunk">
+    <feat name="id" value="17071"/>
+    <feat name="graf:id" value="nc-n52"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n181 "/>
+  </struct>
+  <struct to="963" from="956" type="NounChunk">
+    <feat name="id" value="17072"/>
+    <feat name="graf:id" value="nc-n53"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n184 "/>
+  </struct>
+  <struct to="986" from="976" type="NounChunk">
+    <feat name="id" value="17073"/>
+    <feat name="graf:id" value="nc-n54"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n188 penn-n187 "/>
+  </struct>
+  <struct to="909" from="894" type="NounChunk">
+    <feat name="id" value="17068"/>
+    <feat name="graf:id" value="nc-n50"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n174 penn-n173 penn-n172 "/>
+  </struct>
+  <struct to="945" from="915" type="NounChunk">
+    <feat name="id" value="17069"/>
+    <feat name="graf:id" value="nc-n51"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n179 penn-n178 penn-n177 penn-n176 "/>
+  </struct>
+  <struct to="889" from="888" type="NounChunk">
+    <feat name="id" value="17067"/>
+    <feat name="graf:id" value="nc-n49"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n170 "/>
+  </struct>
+  <struct to="887" from="879" type="NounChunk">
+    <feat name="id" value="17064"/>
+    <feat name="graf:id" value="nc-n48"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n169 "/>
+  </struct>
+  <struct to="864" from="863" type="NounChunk">
+    <feat name="id" value="17062"/>
+    <feat name="graf:id" value="nc-n47"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n165 "/>
+  </struct>
+  <struct to="826" from="816" type="NounChunk">
+    <feat name="id" value="17060"/>
+    <feat name="graf:id" value="nc-n45"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n158 penn-n157 "/>
+  </struct>
+  <struct to="849" from="844" type="NounChunk">
+    <feat name="id" value="17061"/>
+    <feat name="graf:id" value="nc-n46"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n161 "/>
+  </struct>
+  <struct to="2823" from="2819" type="NounChunk">
+    <feat name="id" value="17228"/>
+    <feat name="graf:id" value="nc-n165"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n553 "/>
+  </struct>
+  <struct to="2802" from="2796" type="NounChunk">
+    <feat name="id" value="17226"/>
+    <feat name="graf:id" value="nc-n163"/>
+    <feat name="matches" value="[17225, 1774, 1771]"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n548 "/>
+  </struct>
+  <struct to="2806" from="2803" type="NounChunk">
+    <feat name="id" value="17227"/>
+    <feat name="graf:id" value="nc-n164"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n549 "/>
+  </struct>
+  <struct to="2724" from="2720" type="NounChunk">
+    <feat name="id" value="17221"/>
+    <feat name="graf:id" value="nc-n158"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n533 "/>
+  </struct>
+  <struct to="2286" from="2278" type="NounChunk">
+    <feat name="id" value="17192"/>
+    <feat name="graf:id" value="nc-n134"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n463 "/>
+  </struct>
+  <struct to="159" from="158" type="PRN">
+    <feat name="id" value="1699"/>
+    <feat name="matches" value="[17247, 17248]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1277" from="1276" type="NounChunk">
+    <feat name="id" value="17097"/>
+    <feat name="graf:id" value="nc-n69"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n250 "/>
+  </struct>
+  <struct to="2719" from="2711" type="NounChunk">
+    <feat name="id" value="17220"/>
+    <feat name="graf:id" value="nc-n157"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n532 "/>
+  </struct>
+  <struct to="2289" from="2287" type="NounChunk">
+    <feat name="id" value="17193"/>
+    <feat name="graf:id" value="nc-n135"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n464 "/>
+  </struct>
+  <struct to="137" from="133" type="PRN">
+    <feat name="id" value="1698"/>
+    <feat name="matches" value="[1704, 1705, 1703, 1766, 1695, 1697, 1772, 1700, 16996]"/>
+    <feat name="person" value="second"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="your"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="possessive"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1315" from="1307" type="NounChunk">
+    <feat name="id" value="17099"/>
+    <feat name="graf:id" value="nc-n70"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n259 penn-n258 "/>
+  </struct>
+  <struct to="2309" from="2303" type="NounChunk">
+    <feat name="id" value="17195"/>
+    <feat name="graf:id" value="nc-n136"/>
+    <feat name="matches" value="[4020]"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n467 "/>
+  </struct>
+  <struct to="2792" from="2783" type="NounChunk">
+    <feat name="id" value="17225"/>
+    <feat name="graf:id" value="nc-n162"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n546 "/>
+  </struct>
+  <struct to="31" from="18" type="Date">
+    <feat name="id" value="ID_Not_Found"/>
+    <feat name="graf:id" value="ne-n0"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="kind" value="date"/>
+    <feat name="graf:edge" value="penn-n1 penn-n0 "/>
+  </struct>
+  <struct to="42" from="38" type="PRN">
+    <feat name="id" value="1695"/>
+    <feat name="matches" value="[1704, 1698, 1705, 1703, 1766, 1697, 1772, 1700, 16996]"/>
+    <feat name="person" value="second"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="Your"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="possessive"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="2778" from="2773" type="NounChunk">
+    <feat name="id" value="17224"/>
+    <feat name="graf:id" value="nc-n161"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n544 "/>
+  </struct>
+  <struct to="2754" from="2750" type="NounChunk">
+    <feat name="id" value="17223"/>
+    <feat name="graf:id" value="nc-n160"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n539 "/>
+  </struct>
+  <struct to="2257" from="2229" type="NounChunk">
+    <feat name="id" value="17190"/>
+    <feat name="graf:id" value="nc-n132"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n458 penn-n457 penn-n456 "/>
+  </struct>
+  <struct to="119" from="116" type="PRN">
+    <feat name="id" value="1697"/>
+    <feat name="matches" value="[1704, 1698, 1705, 1703, 1766, 1695, 1772, 1700, 16996]"/>
+    <feat name="person" value="second"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="you"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="objective"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="2744" from="2735" type="NounChunk">
+    <feat name="id" value="17222"/>
+    <feat name="graf:id" value="nc-n159"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n537 penn-n536 "/>
+  </struct>
+  <struct to="2274" from="2265" type="NounChunk">
+    <feat name="id" value="17191"/>
+    <feat name="graf:id" value="nc-n133"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n461 penn-n460 "/>
+  </struct>
+  <struct to="91" from="88" type="PRN">
+    <feat name="id" value="1696"/>
+    <feat name="person" value="second"/>
+    <feat name="matches" value="[]"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="you"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1219" from="1208" type="NounChunk">
+    <feat name="id" value="17091"/>
+    <feat name="graf:id" value="nc-n64"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n236 penn-n235 "/>
+  </struct>
+  <struct to="1222" from="1221" type="NounChunk">
+    <feat name="id" value="17092"/>
+    <feat name="graf:id" value="nc-n65"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n238 "/>
+  </struct>
+  <struct to="2329" from="2320" type="NounChunk">
+    <feat name="id" value="17196"/>
+    <feat name="graf:id" value="nc-n137"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n470 "/>
+  </struct>
+  <struct to="2352" from="2341" type="NounChunk">
+    <feat name="id" value="17197"/>
+    <feat name="graf:id" value="nc-n138"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n473 penn-n472 "/>
+  </struct>
+  <struct to="1240" from="1227" type="NounChunk">
+    <feat name="id" value="17094"/>
+    <feat name="graf:id" value="nc-n66"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n241 penn-n240 "/>
+  </struct>
+  <struct to="2368" from="2354" type="NounChunk">
+    <feat name="id" value="17198"/>
+    <feat name="graf:id" value="nc-n139"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n475 "/>
+  </struct>
+  <struct to="1250" from="1244" type="NounChunk">
+    <feat name="id" value="17095"/>
+    <feat name="graf:id" value="nc-n67"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n243 "/>
+  </struct>
+  <struct to="2383" from="2373" type="NounChunk">
+    <feat name="id" value="17199"/>
+    <feat name="graf:id" value="nc-n140"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n478 penn-n477 "/>
+  </struct>
+  <struct to="1275" from="1255" type="NounChunk">
+    <feat name="id" value="17096"/>
+    <feat name="graf:id" value="nc-n68"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n249 penn-n248 penn-n247 "/>
+  </struct>
+  <struct to="2905" from="2893" type="NounChunk">
+    <feat name="id" value="17237"/>
+    <feat name="graf:id" value="nc-n170"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n568 penn-n567 "/>
+  </struct>
+  <struct to="2933" from="2925" type="NounChunk">
+    <feat name="id" value="17238"/>
+    <feat name="graf:id" value="nc-n171"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n572 "/>
+  </struct>
+  <struct to="2826" from="2824" type="NounChunk">
+    <feat name="id" value="17230"/>
+    <feat name="graf:id" value="nc-n166"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n554 "/>
+  </struct>
+  <struct to="2124" from="2107" type="NounChunk">
+    <feat name="id" value="17183"/>
+    <feat name="graf:id" value="nc-n125"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n433 penn-n432 "/>
+  </struct>
+  <struct to="1167" from="1161" type="NounChunk">
+    <feat name="id" value="17088"/>
+    <feat name="graf:id" value="nc-n62"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n225 "/>
+  </struct>
+  <struct to="2148" from="2144" type="NounChunk">
+    <feat name="id" value="17184"/>
+    <feat name="graf:id" value="nc-n126"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n440 "/>
+  </struct>
+  <struct to="1190" from="1189" type="NounChunk">
+    <feat name="id" value="17089"/>
+    <feat name="graf:id" value="nc-n63"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n231 "/>
+  </struct>
+  <struct to="2050" from="2047" type="NounChunk">
+    <feat name="id" value="17181"/>
+    <feat name="graf:id" value="nc-n123"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n421 "/>
+  </struct>
+  <struct to="1146" from="1140" type="NounChunk">
+    <feat name="id" value="17086"/>
+    <feat name="graf:id" value="nc-n61"/>
+    <feat name="matches" value="[1717, 1718, 1719, 17087, 1724, 1722, 1723, 1720, 1721]"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n223 "/>
+  </struct>
+  <struct to="2865" from="2855" type="NounChunk">
+    <feat name="id" value="17231"/>
+    <feat name="graf:id" value="nc-n167"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n559 "/>
+  </struct>
+  <struct to="2081" from="2065" type="NounChunk">
+    <feat name="id" value="17182"/>
+    <feat name="graf:id" value="nc-n124"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n426 penn-n428 penn-n427 "/>
+  </struct>
+  <struct to="1146" from="1140" type="Person">
+    <feat name="id" value="17087"/>
+    <feat name="graf:id" value="ne-n8"/>
+    <feat name="" value="penn-n223 "/>
+    <feat name="matches" value="[1719]"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="gender" value="female"/>
+  </struct>
+  <struct to="2870" from="2867" type="NounChunk">
+    <feat name="id" value="17233"/>
+    <feat name="graf:id" value="nc-n168"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n561 "/>
+  </struct>
+  <struct to="2046" from="2042" type="NounChunk">
+    <feat name="id" value="17180"/>
+    <feat name="graf:id" value="nc-n122"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n420 "/>
+  </struct>
+  <struct to="2884" from="2880" type="NounChunk">
+    <feat name="id" value="17236"/>
+    <feat name="graf:id" value="nc-n169"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n564 "/>
+  </struct>
+  <struct to="1073" from="1072" type="NounChunk">
+    <feat name="id" value="17080"/>
+    <feat name="graf:id" value="nc-n57"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n203 "/>
+  </struct>
+  <struct to="1112" from="1105" type="NounChunk">
+    <feat name="id" value="17081"/>
+    <feat name="graf:id" value="nc-n58"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n212 "/>
+  </struct>
+  <struct to="2223" from="2220" type="NounChunk">
+    <feat name="id" value="17189"/>
+    <feat name="graf:id" value="nc-n131"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n454 "/>
+  </struct>
+  <struct to="2193" from="2188" type="NounChunk">
+    <feat name="id" value="17187"/>
+    <feat name="graf:id" value="nc-n129"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n448 "/>
+  </struct>
+  <struct to="1134" from="1128" type="NounChunk">
+    <feat name="id" value="17084"/>
+    <feat name="graf:id" value="nc-n60"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n218 penn-n217 "/>
+  </struct>
+  <struct to="2219" from="2211" type="NounChunk">
+    <feat name="id" value="17188"/>
+    <feat name="graf:id" value="nc-n130"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n453 penn-n452 "/>
+  </struct>
+  <struct to="2162" from="2152" type="NounChunk">
+    <feat name="id" value="17185"/>
+    <feat name="graf:id" value="nc-n127"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n443 penn-n442 "/>
+  </struct>
+  <struct to="2166" from="2163" type="NounChunk">
+    <feat name="id" value="17186"/>
+    <feat name="graf:id" value="nc-n128"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n444 "/>
+  </struct>
+  <struct to="1115" from="1114" type="NounChunk">
+    <feat name="id" value="17083"/>
+    <feat name="graf:id" value="nc-n59"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n214 "/>
+  </struct>
+  <struct to="485" from="481" type="NounChunk">
+    <feat name="id" value="17030"/>
+    <feat name="graf:id" value="nc-n26"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n79 "/>
+  </struct>
+  <struct to="2011" from="1991" type="NounChunk">
+    <feat name="id" value="17177"/>
+    <feat name="graf:id" value="nc-n120"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n413 penn-n412 "/>
+  </struct>
+  <struct to="1985" from="1982" type="NounChunk">
+    <feat name="id" value="17176"/>
+    <feat name="graf:id" value="nc-n119"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n410 "/>
+  </struct>
+  <struct to="1981" from="1975" type="NounChunk">
+    <feat name="id" value="17175"/>
+    <feat name="graf:id" value="nc-n118"/>
+    <feat name="matches" value="[1755, 17174]"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n409 "/>
+  </struct>
+  <struct to="1971" from="1962" type="NounChunk">
+    <feat name="id" value="17174"/>
+    <feat name="graf:id" value="nc-n117"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n407 "/>
+  </struct>
+  <struct to="2040" from="2019" type="NounChunk">
+    <feat name="id" value="17178"/>
+    <feat name="graf:id" value="nc-n121"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n418 penn-n417 penn-n416 penn-n415 "/>
+  </struct>
+  <struct to="560" from="559" type="NounChunk">
+    <feat name="id" value="17038"/>
+    <feat name="graf:id" value="nc-n31"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n100 "/>
+  </struct>
+  <struct to="553" from="547" type="NounChunk">
+    <feat name="id" value="17036"/>
+    <feat name="graf:id" value="nc-n30"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n97 penn-n96 "/>
+  </struct>
+  <struct to="539" from="526" type="NounChunk">
+    <feat name="id" value="17035"/>
+    <feat name="graf:id" value="nc-n29"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n93 penn-n92 penn-n91 "/>
+  </struct>
+  <struct to="2604" from="2600" type="NounChunk">
+    <feat name="id" value="17213"/>
+    <feat name="graf:id" value="nc-n152"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n516 "/>
+  </struct>
+  <struct to="2609" from="2605" type="NounChunk">
+    <feat name="id" value="17214"/>
+    <feat name="graf:id" value="nc-n153"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n517 "/>
+  </struct>
+  <struct to="510" from="509" type="NounChunk">
+    <feat name="id" value="17033"/>
+    <feat name="graf:id" value="nc-n28"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n86 "/>
+  </struct>
+  <struct to="1956" from="1954" type="NounChunk">
+    <feat name="id" value="17172"/>
+    <feat name="graf:id" value="nc-n116"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n405 "/>
+  </struct>
+  <struct to="2574" from="2566" type="NounChunk">
+    <feat name="id" value="17211"/>
+    <feat name="graf:id" value="nc-n150"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n509 "/>
+  </struct>
+  <struct to="1952" from="1943" type="NounChunk">
+    <feat name="id" value="17171"/>
+    <feat name="graf:id" value="nc-n115"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n403 penn-n402 "/>
+  </struct>
+  <struct to="2594" from="2582" type="NounChunk">
+    <feat name="id" value="17212"/>
+    <feat name="graf:id" value="nc-n151"/>
+    <feat name="matches" value="[4021]"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n514 penn-n513 penn-n512 penn-n511 "/>
+  </struct>
+  <struct to="495" from="494" type="NounChunk">
+    <feat name="id" value="17031"/>
+    <feat name="graf:id" value="nc-n27"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n82 "/>
+  </struct>
+  <struct to="1936" from="1929" type="NounChunk">
+    <feat name="id" value="17170"/>
+    <feat name="graf:id" value="nc-n114"/>
+    <feat name="matches" value="[1740, 1743, 1742, 1750, 1745, 17169, 1744, 1747, 1738, 1746, 1749, 1748, 1739]"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n401 "/>
+  </struct>
+  <struct to="2671" from="2663" type="NounChunk">
+    <feat name="id" value="17218"/>
+    <feat name="graf:id" value="nc-n156"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n525 "/>
+  </struct>
+  <struct to="2659" from="2650" type="NounChunk">
+    <feat name="id" value="17216"/>
+    <feat name="graf:id" value="nc-n155"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n523 penn-n522 "/>
+  </struct>
+  <struct to="2648" from="2620" type="NounChunk">
+    <feat name="id" value="17215"/>
+    <feat name="graf:id" value="nc-n154"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n520 penn-n519 "/>
+  </struct>
+  <struct to="581" from="575" type="NounChunk">
+    <feat name="id" value="17039"/>
+    <feat name="graf:id" value="nc-n32"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n103 penn-n104 "/>
+  </struct>
+  <struct to="1887" from="1877" type="NounChunk">
+    <feat name="id" value="17164"/>
+    <feat name="graf:id" value="nc-n111"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n390 "/>
+  </struct>
+  <struct to="1907" from="1899" type="NounChunk">
+    <feat name="id" value="17166"/>
+    <feat name="graf:id" value="nc-n112"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n392 "/>
+  </struct>
+  <struct to="1923" from="1921" type="NounChunk">
+    <feat name="id" value="17168"/>
+    <feat name="graf:id" value="nc-n113"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n396 "/>
+  </struct>
+  <struct to="1936" from="1929" type="Person">
+    <feat name="id" value="17169"/>
+    <feat name="graf:id" value="ne-n13"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="gender" value="male"/>
+    <feat name="graf:edge" value="penn-n401 "/>
+  </struct>
+  <struct to="367" from="361" type="NounChunk">
+    <feat name="id" value="17025"/>
+    <feat name="graf:id" value="nc-n21"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n61 "/>
+  </struct>
+  <struct to="339" from="331" type="NounChunk">
+    <feat name="id" value="17024"/>
+    <feat name="graf:id" value="nc-n20"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n57 "/>
+  </struct>
+  <struct to="440" from="427" type="NounChunk">
+    <feat name="id" value="17027"/>
+    <feat name="graf:id" value="nc-n23"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n71 penn-n70 penn-n69 "/>
+  </struct>
+  <struct to="411" from="373" type="NounChunk">
+    <feat name="id" value="17026"/>
+    <feat name="graf:id" value="nc-n22"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n66 penn-n65 penn-n64 penn-n63 "/>
+  </struct>
+  <struct to="2393" from="2385" type="NounChunk">
+    <feat name="id" value="17200"/>
+    <feat name="graf:id" value="nc-n141"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n480 "/>
+  </struct>
+  <struct to="327" from="318" type="NounChunk">
+    <feat name="id" value="17021"/>
+    <feat name="graf:id" value="nc-n19"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n55 penn-n54 "/>
+  </struct>
+  <struct to="1851" from="1850" type="NounChunk">
+    <feat name="id" value="17160"/>
+    <feat name="graf:id" value="nc-n109"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n384 "/>
+  </struct>
+  <struct to="2398" from="2394" type="NounChunk">
+    <feat name="id" value="17201"/>
+    <feat name="graf:id" value="nc-n142"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n481 "/>
+  </struct>
+  <struct to="2432" from="2423" type="NounChunk">
+    <feat name="id" value="17202"/>
+    <feat name="graf:id" value="nc-n143"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n487 penn-n486 "/>
+  </struct>
+  <struct to="1865" from="1864" type="NounChunk">
+    <feat name="id" value="17162"/>
+    <feat name="graf:id" value="nc-n110"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n388 "/>
+  </struct>
+  <struct to="2512" from="2474" type="NounChunk">
+    <feat name="id" value="17205"/>
+    <feat name="graf:id" value="nc-n145"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n494 penn-n497 penn-n496 penn-n495 "/>
+  </struct>
+  <struct to="2468" from="2461" type="NounChunk">
+    <feat name="id" value="17204"/>
+    <feat name="graf:id" value="nc-n144"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n492 "/>
+  </struct>
+  <struct to="2533" from="2529" type="NounChunk">
+    <feat name="id" value="17207"/>
+    <feat name="graf:id" value="nc-n147"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n501 "/>
+  </struct>
+  <struct to="2524" from="2514" type="NounChunk">
+    <feat name="id" value="17206"/>
+    <feat name="graf:id" value="nc-n146"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n499 "/>
+  </struct>
+  <struct to="2564" from="2555" type="NounChunk">
+    <feat name="id" value="17209"/>
+    <feat name="graf:id" value="nc-n149"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n507 penn-n506 "/>
+  </struct>
+  <struct to="458" from="449" type="NounChunk">
+    <feat name="id" value="17028"/>
+    <feat name="graf:id" value="nc-n24"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n75 penn-n74 "/>
+  </struct>
+  <struct to="2547" from="2537" type="NounChunk">
+    <feat name="id" value="17208"/>
+    <feat name="graf:id" value="nc-n148"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n504 penn-n503 "/>
+  </struct>
+  <struct to="463" from="459" type="NounChunk">
+    <feat name="id" value="17029"/>
+    <feat name="graf:id" value="nc-n25"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n76 "/>
+  </struct>
+  <struct to="1849" from="1830" type="NounChunk">
+    <feat name="id" value="17159"/>
+    <feat name="graf:id" value="nc-n108"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n383 penn-n382 penn-n381 "/>
+  </struct>
+  <struct to="1818" from="1812" type="NounChunk">
+    <feat name="id" value="17158"/>
+    <feat name="graf:id" value="nc-n107"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n379 penn-n378 "/>
+  </struct>
+  <struct to="1804" from="1791" type="NounChunk">
+    <feat name="id" value="17156"/>
+    <feat name="graf:id" value="nc-n106"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n376 penn-n375 "/>
+  </struct>
+  <struct to="2625" from="2620" type="PRN">
+    <feat name="id" value="4021"/>
+    <feat name="person" value="third"/>
+    <feat name="matches" value="[17212]"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="their"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="plural"/>
+    <feat name="case" value="possessive"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1789" from="1781" type="NounChunk">
+    <feat name="id" value="17155"/>
+    <feat name="graf:id" value="nc-n105"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n373 penn-n372 "/>
+  </struct>
+  <struct to="2428" from="2423" type="PRN">
+    <feat name="id" value="4020"/>
+    <feat name="person" value="third"/>
+    <feat name="matches" value="[17195]"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="their"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="plural"/>
+    <feat name="case" value="possessive"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="703" from="687" type="NounChunk">
+    <feat name="id" value="17051"/>
+    <feat name="graf:id" value="nc-n40"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n130 penn-n129 penn-n128 "/>
+  </struct>
+  <struct to="1773" from="1772" type="NounChunk">
+    <feat name="id" value="17153"/>
+    <feat name="graf:id" value="nc-n104"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n369 "/>
+  </struct>
+  <struct to="1770" from="1765" type="NounChunk">
+    <feat name="id" value="17152"/>
+    <feat name="graf:id" value="nc-n103"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n367 penn-n366 "/>
+  </struct>
+  <struct to="1759" from="1755" type="NounChunk">
+    <feat name="id" value="17151"/>
+    <feat name="graf:id" value="nc-n102"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n364 "/>
+  </struct>
+  <struct to="740" from="739" type="NounChunk">
+    <feat name="id" value="17055"/>
+    <feat name="graf:id" value="nc-n42"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n141 "/>
+  </struct>
+  <struct to="709" from="708" type="NounChunk">
+    <feat name="id" value="17053"/>
+    <feat name="graf:id" value="nc-n41"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n133 "/>
+  </struct>
+  <struct to="810" from="792" type="NounChunk">
+    <feat name="id" value="17059"/>
+    <feat name="graf:id" value="nc-n44"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n155 penn-n154 "/>
+  </struct>
+  <struct to="769" from="762" type="Person">
+    <feat name="id" value="17058"/>
+    <feat name="graf:id" value="ne-n5"/>
+    <feat name="" value="penn-n151 "/>
+    <feat name="matches" value="[1707]"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="gender" value="female"/>
+  </struct>
+  <struct to="769" from="762" type="NounChunk">
+    <feat name="id" value="17057"/>
+    <feat name="graf:id" value="nc-n43"/>
+    <feat name="matches" value="[1708, 1713, 1709, 1714, 1707, 1716, 1710, 1711, 1712, 17058]"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n151 "/>
+  </struct>
+  <struct to="3025" from="3017" type="Organization">
+    <feat name="id" value="4012"/>
+    <feat name="graf:id" value="ne-n17"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="type" value="other"/>
+    <feat name="graf:edge" value="penn-n589 "/>
+  </struct>
+  <struct to="1723" from="1722" type="NounChunk">
+    <feat name="id" value="17146"/>
+    <feat name="graf:id" value="nc-n99"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n355 "/>
+  </struct>
+  <struct to="2933" from="2925" type="Organization">
+    <feat name="id" value="4011"/>
+    <feat name="graf:id" value="ne-n16"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="type" value="other"/>
+    <feat name="graf:edge" value="penn-n572 "/>
+  </struct>
+  <struct to="1715" from="1712" type="NounChunk">
+    <feat name="id" value="17145"/>
+    <feat name="graf:id" value="nc-n98"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n351 "/>
+  </struct>
+  <struct to="1738" from="1729" type="NounChunk">
+    <feat name="id" value="17148"/>
+    <feat name="graf:id" value="nc-n100"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n359 penn-n358 "/>
+  </struct>
+  <struct to="1041" from="1039" type="NounChunk">
+    <feat name="id" value="4013"/>
+  </struct>
+  <struct to="1692" from="1685" type="NounChunk">
+    <feat name="id" value="17142"/>
+    <feat name="graf:id" value="nc-n96"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n345 penn-n344 "/>
+  </struct>
+  <struct to="1684" from="1680" type="NounChunk">
+    <feat name="id" value="17141"/>
+    <feat name="graf:id" value="nc-n95"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n343 "/>
+  </struct>
+  <struct to="2671" from="2663" type="Organization">
+    <feat name="id" value="4010"/>
+    <feat name="graf:id" value="ne-n15"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="type" value="other"/>
+    <feat name="graf:edge" value="penn-n525 "/>
+  </struct>
+  <struct to="1699" from="1698" type="NounChunk">
+    <feat name="id" value="17144"/>
+    <feat name="graf:id" value="nc-n97"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n348 "/>
+  </struct>
+  <struct to="597" from="592" type="NounChunk">
+    <feat name="id" value="17040"/>
+    <feat name="graf:id" value="nc-n33"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n107 "/>
+  </struct>
+  <struct to="630" from="625" type="NounChunk">
+    <feat name="id" value="17043"/>
+    <feat name="graf:id" value="nc-n35"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n114 "/>
+  </struct>
+  <struct to="2884" from="2880" type="PRN">
+    <feat name="id" value="1774"/>
+    <feat name="matches" value="[17225, 17226, 1771]"/>
+    <feat name="person" value="third"/>
+    <feat name="cls" value="Thing"/>
+    <feat name="string" value="them"/>
+    <feat name="number" value="plural"/>
+    <feat name="case" value="objective"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="600" from="599" type="NounChunk">
+    <feat name="id" value="17042"/>
+    <feat name="graf:id" value="nc-n34"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n109 "/>
+  </struct>
+  <struct to="2865" from="2855" type="PRN">
+    <feat name="id" value="1771"/>
+    <feat name="matches" value="[17225, 1774, 17226]"/>
+    <feat name="person" value="third"/>
+    <feat name="cls" value="Thing"/>
+    <feat name="string" value="themselves"/>
+    <feat name="number" value="plural"/>
+    <feat name="case" value="reflexive"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="2870" from="2867" type="PRN">
+    <feat name="id" value="1772"/>
+    <feat name="matches" value="[1704, 1698, 1705, 1703, 1766, 1695, 1697, 1700, 16996]"/>
+    <feat name="person" value="second"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="You"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="633" from="632" type="NounChunk">
+    <feat name="id" value="17044"/>
+    <feat name="graf:id" value="nc-n36"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n116 "/>
+  </struct>
+  <struct to="662" from="639" type="NounChunk">
+    <feat name="id" value="17046"/>
+    <feat name="graf:id" value="nc-n37"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n120 penn-n119 penn-n118 "/>
+  </struct>
+  <struct to="683" from="676" type="NounChunk">
+    <feat name="id" value="17049"/>
+    <feat name="graf:id" value="nc-n39"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n126 penn-n125 "/>
+  </struct>
+  <struct to="665" from="664" type="NounChunk">
+    <feat name="id" value="17048"/>
+    <feat name="graf:id" value="nc-n38"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n122 "/>
+  </struct>
+  <struct to="1907" from="1899" type="Organization">
+    <feat name="id" value="4008"/>
+    <feat name="graf:id" value="ne-n12"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="type" value="other"/>
+    <feat name="graf:edge" value="penn-n392 "/>
+  </struct>
+  <struct to="2574" from="2566" type="Organization">
+    <feat name="id" value="4009"/>
+    <feat name="graf:id" value="ne-n14"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="type" value="other"/>
+    <feat name="graf:edge" value="penn-n509 "/>
+  </struct>
+  <struct to="887" from="879" type="Organization">
+    <feat name="id" value="4004"/>
+    <feat name="graf:id" value="ne-n6"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="type" value="other"/>
+    <feat name="graf:edge" value="penn-n169 "/>
+  </struct>
+  <struct to="1747" from="1746" type="NounChunk">
+    <feat name="id" value="17149"/>
+    <feat name="graf:id" value="nc-n101"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n361 "/>
+  </struct>
+  <struct to="1006" from="998" type="Organization">
+    <feat name="id" value="4005"/>
+    <feat name="graf:id" value="ne-n7"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="type" value="other"/>
+    <feat name="graf:edge" value="penn-n192 "/>
+  </struct>
+  <struct to="1390" from="1382" type="Organization">
+    <feat name="id" value="4006"/>
+    <feat name="graf:id" value="ne-n9"/>
+    <feat name="matches" value="[1732]"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="type" value="other"/>
+    <feat name="graf:edge" value="penn-n276 "/>
+  </struct>
+  <struct to="1614" from="1606" type="Organization">
+    <feat name="id" value="4007"/>
+    <feat name="graf:id" value="ne-n11"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="type" value="other"/>
+    <feat name="graf:edge" value="penn-n325 "/>
+  </struct>
+  <struct to="2654" from="2650" type="PRN">
+    <feat name="id" value="1766"/>
+    <feat name="matches" value="[1704, 1698, 1705, 1703, 1695, 1697, 1772, 1700, 16996]"/>
+    <feat name="person" value="second"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="Your"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="possessive"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1614" from="1606" type="NounChunk">
+    <feat name="id" value="17132"/>
+    <feat name="graf:id" value="nc-n89"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n325 "/>
+  </struct>
+  <struct to="1617" from="1616" type="NounChunk">
+    <feat name="id" value="17133"/>
+    <feat name="graf:id" value="nc-n90"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n327 "/>
+  </struct>
+  <struct to="1598" from="1597" type="NounChunk">
+    <feat name="id" value="17130"/>
+    <feat name="graf:id" value="nc-n88"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n322 "/>
+  </struct>
+  <struct to="2826" from="2824" type="PRN">
+    <feat name="id" value="1769"/>
+    <feat name="matches" value="[]"/>
+    <feat name="person" value="third"/>
+    <feat name="cls" value="Thing"/>
+    <feat name="string" value="it"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="294" from="286" type="Organization">
+    <feat name="id" value="4002"/>
+    <feat name="graf:id" value="ne-n3"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="type" value="other"/>
+    <feat name="graf:edge" value="penn-n49 "/>
+  </struct>
+  <struct to="119" from="116" type="NounChunk">
+    <feat name="id" value="16998"/>
+    <feat name="graf:id" value="nc-n5"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n16 "/>
+  </struct>
+  <struct to="339" from="331" type="Organization">
+    <feat name="id" value="4003"/>
+    <feat name="graf:id" value="ne-n4"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="type" value="other"/>
+    <feat name="graf:edge" value="penn-n57 "/>
+  </struct>
+  <struct to="1637" from="1636" type="NounChunk">
+    <feat name="id" value="17137"/>
+    <feat name="graf:id" value="nc-n92"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n333 "/>
+  </struct>
+  <struct to="67" from="59" type="Organization">
+    <feat name="id" value="4000"/>
+    <feat name="graf:id" value="ne-n1"/>
+    <feat name="matches" value="[ 4005,  4004,  4007,  4006,  4009,  4008,  4010,  4002,  4011,  4003,  4012,  4001]"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="type" value="other"/>
+    <feat name="graf:edge" value="penn-n5 "/>
+  </struct>
+  <struct to="82" from="78" type="NounChunk">
+    <feat name="id" value="16995"/>
+    <feat name="graf:id" value="nc-n3"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n8 "/>
+  </struct>
+  <struct to="91" from="88" type="NounChunk">
+    <feat name="id" value="16996"/>
+    <feat name="graf:id" value="nc-n4"/>
+    <feat name="matches" value="[1695,1697,1698,1700,1703,1704,1705,1766,1772]"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n10 "/>
+  </struct>
+  <struct to="1634" from="1625" type="NounChunk">
+    <feat name="id" value="17135"/>
+    <feat name="graf:id" value="nc-n91"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n331 penn-n330 "/>
+  </struct>
+  <struct to="67" from="59" type="NounChunk">
+    <feat name="id" value="16994"/>
+    <feat name="graf:id" value="nc-n2"/>
+    <feat name="matches" value="[1702, 1751, 1759, 4003]"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n5 "/>
+  </struct>
+  <struct to="1659" from="1657" type="NounChunk">
+    <feat name="id" value="17139"/>
+    <feat name="graf:id" value="nc-n94"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n339 "/>
+  </struct>
+  <struct to="55" from="38" type="NounChunk">
+    <feat name="id" value="16991"/>
+    <feat name="graf:id" value="nc-n1"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n3 penn-n2 "/>
+  </struct>
+  <struct to="1655" from="1650" type="NounChunk">
+    <feat name="id" value="17138"/>
+    <feat name="graf:id" value="nc-n93"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n337 penn-n336 "/>
+  </struct>
+  <struct to="2046" from="2042" type="PRN">
+    <feat name="id" value="1755"/>
+    <feat name="matches" value="[17175, 17174]"/>
+    <feat name="person" value="third"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="they"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="plural"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1956" from="1954" type="PRN">
+    <feat name="id" value="1751"/>
+    <feat name="matches" value="[16994, 1702, 1759, 4003]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="we"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="plural"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1923" from="1921" type="PRN">
+    <feat name="id" value="1750"/>
+    <feat name="matches" value="[1740, 1743, 1742, 1745, 17169, 1744, 1747, 1738, 1746, 1749, 1748, 17170, 1739]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="me"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="objective"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1483" from="1476" type="NounChunk">
+    <feat name="id" value="17120"/>
+    <feat name="graf:id" value="nc-n83"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n299 penn-n298 "/>
+  </struct>
+  <struct to="1500" from="1495" type="Person">
+    <feat name="id" value="17122"/>
+    <feat name="graf:id" value="ne-n10"/>
+    <feat name="matches" value="[1725]"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="gender" value="female"/>
+    <feat name="graf:edge" value="penn-n304 "/>
+  </struct>
+  <struct to="1500" from="1495" type="NounChunk">
+    <feat name="id" value="17123"/>
+    <feat name="graf:id" value="nc-n84"/>
+    <feat name="matches" value="[1730, 1728, 1729, 1726, 1734, 1727, 1733, 1725, 1731, 1735, 17122]"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n304 "/>
+  </struct>
+  <struct to="2289" from="2287" type="PRN">
+    <feat name="id" value="1759"/>
+    <feat name="matches" value="[16994, 1702, 1751, 4003]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="we"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="plural"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1529" from="1524" type="NounChunk">
+    <feat name="id" value="17124"/>
+    <feat name="graf:id" value="nc-n85"/>
+    <feat name="matches" value="[1737, 1736]"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n308 penn-n307 "/>
+  </struct>
+  <struct to="1551" from="1548" type="NounChunk">
+    <feat name="id" value="17126"/>
+    <feat name="graf:id" value="nc-n86"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n313 "/>
+  </struct>
+  <struct to="1581" from="1560" type="NounChunk">
+    <feat name="id" value="17127"/>
+    <feat name="graf:id" value="nc-n87"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n318 penn-n317 penn-n316 "/>
+  </struct>
+  <struct to="228" from="220" type="NounChunk">
+    <feat name="id" value="17011"/>
+    <feat name="graf:id" value="nc-n13"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n36 "/>
+  </struct>
+  <struct to="238" from="228" type="NounChunk">
+    <feat name="id" value="17012"/>
+    <feat name="graf:id" value="nc-n14"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n38 penn-n37 "/>
+  </struct>
+  <struct to="1659" from="1657" type="PRN">
+    <feat name="id" value="1741"/>
+    <feat name="matches" value="[]"/>
+    <feat name="person" value="third"/>
+    <feat name="cls" value="Thing"/>
+    <feat name="string" value="It"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1637" from="1636" type="PRN">
+    <feat name="id" value="1740"/>
+    <feat name="matches" value="[1743, 1742, 1750, 1745, 17169, 1744, 1747, 1738, 1746, 1749, 1748, 17170, 1739]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1723" from="1722" type="PRN">
+    <feat name="id" value="1743"/>
+    <feat name="matches" value="[1740, 1742, 1750, 1745, 17169, 1744, 1747, 1738, 1746, 1749, 1748, 17170, 1739]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="251" from="248" type="NounChunk">
+    <feat name="id" value="17016"/>
+    <feat name="graf:id" value="nc-n16"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n42 "/>
+  </struct>
+  <struct to="1699" from="1698" type="PRN">
+    <feat name="id" value="1742"/>
+    <feat name="matches" value="[1740, 1743, 1750, 1745, 17169, 1744, 1747, 1738, 1746, 1749, 1748, 17170, 1739]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1773" from="1772" type="PRN">
+    <feat name="id" value="1745"/>
+    <feat name="matches" value="[1740, 1743, 1742, 1750, 17169, 1744, 1747, 1738, 1746, 1749, 1748, 17170, 1739]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="242" from="240" type="NounChunk">
+    <feat name="id" value="17014"/>
+    <feat name="graf:id" value="nc-n15"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n40 "/>
+  </struct>
+  <struct to="1747" from="1746" type="PRN">
+    <feat name="id" value="1744"/>
+    <feat name="matches" value="[1740, 1743, 1742, 1750, 1745, 17169, 1747, 1738, 1746, 1749, 1748, 17170, 1739]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1439" from="1434" type="NounChunk">
+    <feat name="id" value="17114"/>
+    <feat name="graf:id" value="nc-n79"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n287 "/>
+  </struct>
+  <struct to="1851" from="1850" type="PRN">
+    <feat name="id" value="1747"/>
+    <feat name="matches" value="[1740, 1743, 1742, 1750, 1745, 17169, 1744, 1738, 1746, 1749, 1748, 17170, 1739]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1793" from="1791" type="PRN">
+    <feat name="id" value="1746"/>
+    <feat name="matches" value="[1740, 1743, 1742, 1750, 1745, 17169, 1744, 1747, 1738, 1749, 1748, 17170, 1739]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="My"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="possessive"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1865" from="1864" type="PRN">
+    <feat name="id" value="1748"/>
+    <feat name="matches" value="[1740, 1743, 1742, 1750, 1745, 17169, 1744, 1747, 1738, 1746, 1749, 17170, 1739]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1411" from="1394" type="NounChunk">
+    <feat name="id" value="17110"/>
+    <feat name="graf:id" value="nc-n77"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n281 penn-n280 penn-n279 penn-n278 "/>
+  </struct>
+  <struct to="1414" from="1413" type="NounChunk">
+    <feat name="id" value="17111"/>
+    <feat name="graf:id" value="nc-n78"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n283 "/>
+  </struct>
+  <struct to="1465" from="1449" type="NounChunk">
+    <feat name="id" value="17118"/>
+    <feat name="graf:id" value="nc-n82"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n295 penn-n294 penn-n293 "/>
+  </struct>
+  <struct to="1448" from="1445" type="NounChunk">
+    <feat name="id" value="17117"/>
+    <feat name="graf:id" value="nc-n81"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n292 "/>
+  </struct>
+  <struct to="1444" from="1443" type="NounChunk">
+    <feat name="id" value="17116"/>
+    <feat name="graf:id" value="nc-n80"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n291 "/>
+  </struct>
+  <struct to="294" from="286" type="NounChunk">
+    <feat name="id" value="17019"/>
+    <feat name="graf:id" value="nc-n18"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n49 "/>
+  </struct>
+  <struct to="282" from="270" type="NounChunk">
+    <feat name="id" value="17017"/>
+    <feat name="graf:id" value="nc-n17"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n47 penn-n46 "/>
+  </struct>
+  <struct to="1366" from="1365" type="PRN">
+    <feat name="id" value="1730"/>
+    <feat name="matches" value="[1728, 1729, 1726, 1734, 1727, 1733, 1725, 1731, 1735, 17122, 17123]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="132" from="124" type="NounChunk">
+    <feat name="id" value="17000"/>
+    <feat name="graf:id" value="nc-n6"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n19 penn-n18 "/>
+  </struct>
+  <struct to="150" from="133" type="NounChunk">
+    <feat name="id" value="17001"/>
+    <feat name="graf:id" value="nc-n7"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n21 penn-n20 "/>
+  </struct>
+  <struct to="1451" from="1449" type="PRN">
+    <feat name="id" value="1734"/>
+    <feat name="matches" value="[1730, 1728, 1729, 1726, 1727, 1733, 1725, 1731, 1735, 17122, 17123]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="my"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="possessive"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1444" from="1443" type="PRN">
+    <feat name="id" value="1733"/>
+    <feat name="matches" value="[1730, 1728, 1729, 1726, 1734, 1727, 1725, 1731, 1735, 17122, 17123]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="159" from="158" type="NounChunk">
+    <feat name="id" value="17004"/>
+    <feat name="graf:id" value="nc-n8"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n24 "/>
+  </struct>
+  <struct to="1439" from="1434" type="PRN">
+    <feat name="id" value="1732"/>
+    <feat name="matches" value="[17108, 4006]"/>
+    <feat name="person" value="third"/>
+    <feat name="cls" value="Location"/>
+    <feat name="string" value="there"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="objective"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1414" from="1413" type="PRN">
+    <feat name="id" value="1731"/>
+    <feat name="matches" value="[1730, 1728, 1729, 1726, 1734, 1727, 1733, 1725, 1735, 17122, 17123]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1598" from="1597" type="PRN">
+    <feat name="id" value="1738"/>
+    <feat name="matches" value="[1740, 1743, 1742, 1750, 1745, 17169, 1744, 1747, 1746, 1749, 1748, 17170, 1739]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1345" from="1343" type="NounChunk">
+    <feat name="id" value="17102"/>
+    <feat name="graf:id" value="nc-n72"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n264 "/>
+  </struct>
+  <struct to="1563" from="1560" type="PRN">
+    <feat name="id" value="1737"/>
+    <feat name="matches" value="[1736, 17124]"/>
+    <feat name="person" value="third"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="his"/>
+    <feat name="gender" value="male"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="possessive"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1361" from="1350" type="NounChunk">
+    <feat name="id" value="17103"/>
+    <feat name="graf:id" value="nc-n73"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n267 penn-n266 "/>
+  </struct>
+  <struct to="1551" from="1548" type="PRN">
+    <feat name="id" value="1736"/>
+    <feat name="matches" value="[1737, 17124]"/>
+    <feat name="person" value="third"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="him"/>
+    <feat name="gender" value="male"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="objective"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1478" from="1476" type="PRN">
+    <feat name="id" value="1735"/>
+    <feat name="matches" value="[1730, 1728, 1729, 1726, 1734, 1727, 1733, 1725, 1731, 17122, 17123]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="my"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="possessive"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="31" from="18" type="NounChunk">
+    <feat name="id" value="16989"/>
+    <feat name="graf:id" value="nc-n0"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n1 penn-n0 "/>
+  </struct>
+  <struct to="1332" from="1326" type="NounChunk">
+    <feat name="id" value="17100"/>
+    <feat name="graf:id" value="nc-n71"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n262 "/>
+  </struct>
+  <struct to="1617" from="1616" type="PRN">
+    <feat name="id" value="1739"/>
+    <feat name="matches" value="[1740, 1743, 1742, 1750, 1745, 17169, 1744, 1747, 1738, 1746, 1749, 1748, 17170]"/>
+    <feat name="person" value="first"/>
+    <feat name="cls" value="Person"/>
+    <feat name="string" value="I"/>
+    <feat name="gender" value="either"/>
+    <feat name="number" value="singular"/>
+    <feat name="case" value="nominative"/>
+    <feat name="type" value="anaphoric"/>
+  </struct>
+  <struct to="1366" from="1365" type="NounChunk">
+    <feat name="id" value="17105"/>
+    <feat name="graf:id" value="nc-n74"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n271 "/>
+  </struct>
+  <struct to="1390" from="1382" type="NounChunk">
+    <feat name="id" value="17108"/>
+    <feat name="graf:id" value="nc-n76"/>
+    <feat name="matches" value="[1732, 4006]"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n276 "/>
+  </struct>
+  <struct to="1378" from="1372" type="NounChunk">
+    <feat name="id" value="17107"/>
+    <feat name="graf:id" value="nc-n75"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n274 penn-n273 "/>
+  </struct>
+  <struct to="194" from="185" type="NounChunk">
+    <feat name="id" value="17007"/>
+    <feat name="graf:id" value="nc-n10"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n30 penn-n29 "/>
+  </struct>
+  <struct to="178" from="175" type="NounChunk">
+    <feat name="id" value="17006"/>
+    <feat name="graf:id" value="nc-n9"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n28 "/>
+  </struct>
+  <struct to="208" from="205" type="NounChunk">
+    <feat name="id" value="17009"/>
+    <feat name="graf:id" value="nc-n12"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n33 "/>
+  </struct>
+  <struct to="204" from="198" type="NounChunk">
+    <feat name="id" value="17008"/>
+    <feat name="graf:id" value="nc-n11"/>
+    <feat name="graf:set" value="xces"/>
+    <feat name="graf:edge" value="penn-n32 "/>
+  </struct>
+</cesAna>

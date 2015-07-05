@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cesAna xmlns="http://www.xces.org/schema/2003" version="1.0">
+   <struct type="NounChunk" from="9" to="25">
+      <feat name="id" value="41"/>
+   </struct>
+   <struct type="NounChunk" from="30" to="45">
+      <feat name="id" value="42"/>
+   </struct>
+   <struct type="Person" from="52" to="69">
+      <feat name="gender" value="male"/>
+   </struct>
+   <struct type="NounChunk" from="52" to="69">
+      <feat name="id" value="43"/>
+   </struct>
+   <struct type="NounChunk" from="71" to="100">
+      <feat name="id" value="44"/>
+   </struct>
+   <struct type="Organization" from="71" to="87">
+      <feat name="rule2" value="OrgFinal"/>
+      <feat name="rule1" value="GazOrganization"/>
+      <feat name="orgType" value="newspaper/media"/>
+      <feat name="id" value="14"/>
+   </struct>
+   <struct type="Location" from="95" to="100">
+      <feat name="rule2" value="LocFinal"/>
+      <feat name="rule1" value="GazLocation"/>
+      <feat name="locType" value="city"/>
+      <feat name="id" value="15"/>
+   </struct>
+   <struct type="Location" from="102" to="106">
+      <feat name="rule2" value="LocFinal"/>
+      <feat name="rule1" value="GazLocation"/>
+      <feat name="locType" value="country"/>
+      <feat name="id" value="16"/>
+   </struct>
+   <struct type="NounChunk" from="102" to="106">
+      <feat name="id" value="45"/>
+   </struct>
+   <struct type="Organization" from="108" to="110">
+      <feat name="rule2" value="OrgFinal"/>
+      <feat name="rule1" value="GazOrganization"/>
+      <feat name="orgType" value="newspaper/media"/>
+      <feat name="id" value="17"/>
+   </struct>
+   <struct type="NounChunk" from="108" to="110">
+      <feat name="id" value="46"/>
+   </struct>
+   <struct type="NounChunk" from="117" to="130">
+      <feat name="id" value="47"/>
+   </struct>
+   <struct type="Organization" from="117" to="121">
+      <feat name="orgType" value="government"/>
+      <feat name="id" value="19"/>
+   </struct>
+   <struct type="Location" from="117" to="121">
+      <feat name="locType" value="country"/>
+   </struct>
+   <struct type="NounChunk" from="141" to="151">
+      <feat name="id" value="48"/>
+   </struct>
+   <struct type="NounChunk" from="155" to="169">
+      <feat name="id" value="49"/>
+   </struct>
+   <struct type="Organization" from="155" to="159">
+      <feat name="orgType" value="government"/>
+      <feat name="id" value="20"/>
+   </struct>
+   <struct type="NounChunk" from="173" to="177">
+      <feat name="id" value="50"/>
+   </struct>
+   <struct type="Location" from="173" to="177">
+      <feat name="rule2" value="LocFinal"/>
+      <feat name="rule1" value="GazLocation"/>
+      <feat name="locType" value="country"/>
+      <feat name="id" value="21"/>
+   </struct>
+   <struct type="NounChunk" from="187" to="196">
+      <feat name="id" value="51"/>
+   </struct>
+   <struct type="Date" from="187" to="196">
+      <feat name="kind" value="date"/>
+      <feat name="rule2" value="DateOnlyFinal"/>
+      <feat name="rule1" value="GazDateWords"/>
+   </struct>
+   <struct type="NounChunk" from="197" to="199">
+      <feat name="id" value="52"/>
+   </struct>
+   <struct type="PRN" from="197" to="199">
+      <feat name="number" value="singular"/>
+      <feat name="cls" value="Thing"/>
+      <feat name="person" value="third"/>
+      <feat name="case" value="nominative"/>
+      <feat name="string" value="it"/>
+      <feat name="id" value="645"/>
+      <feat name="matches" value="[]"/>
+      <feat name="type" value="anaphoric"/>
+   </struct>
+   <struct type="NounChunk" from="231" to="238">
+      <feat name="id" value="53"/>
+      <feat name="matches" value="[646]"/>
+   </struct>
+   <struct type="Location" from="231" to="238">
+      <feat name="rule2" value="LocFinal"/>
+      <feat name="rule1" value="GazLocation"/>
+      <feat name="locType" value="city"/>
+      <feat name="id" value="23"/>
+   </struct>
+   <struct type="PRN" from="250" to="253">
+      <feat name="number" value="singular"/>
+      <feat name="cls" value="Thing"/>
+      <feat name="case" value="possessive"/>
+      <feat name="person" value="third"/>
+      <feat name="string" value="its"/>
+      <feat name="id" value="646"/>
+      <feat name="matches" value="[]"/>
+      <feat name="type" value="anaphoric"/>
+   </struct>
+   <struct type="NounChunk" from="250" to="252">
+      <feat name="id" value="54"/>
+   </struct>
+   <struct type="NounChunk" from="252" to="265">
+      <feat name="id" value="55"/>
+   </struct>
+   <struct type="NounChunk" from="269" to="285">
+      <feat name="id" value="56"/>
+   </struct>
+   <struct type="NounChunk" from="301" to="305">
+      <feat name="id" value="57"/>
+   </struct>
+   <struct type="NounChunk" from="314" to="327">
+      <feat name="id" value="58"/>
+   </struct>
+   <struct type="NounChunk" from="335" to="350">
+      <feat name="id" value="59"/>
+   </struct>
+   <struct type="NounChunk" from="355" to="369">
+      <feat name="id" value="60"/>
+      <feat name="matches" value="[654,655,657]"/>
+   </struct>
+   <struct type="Person" from="360" to="369">
+      <feat name="gender" value="male"/>
+   </struct>
+   <struct type="NounChunk" from="371" to="377">
+      <feat name="id" value="61"/>
+   </struct>
+   <struct type="Location" from="373" to="377">
+      <feat name="rule2" value="LocFinal"/>
+      <feat name="rule1" value="GazLocation"/>
+      <feat name="locType" value="province"/>
+      <feat name="id" value="25"/>
+   </struct>
+   <struct type="NounChunk" from="396" to="405">
+      <feat name="id" value="62"/>
+   </struct>
+   <struct type="NounChunk" from="409" to="418">
+      <feat name="id" value="63"/>
+   </struct>
+   <struct type="Location" from="434" to="438">
+      <feat name="rule2" value="LocFinal"/>
+      <feat name="rule1" value="GazLocation"/>
+      <feat name="locType" value="country"/>
+      <feat name="id" value="26"/>
+   </struct>
+   <struct type="NounChunk" from="434" to="438">
+      <feat name="id" value="64"/>
+      <feat name="matches" value="[647]"/>
+   </struct>
+   <struct type="NounChunk" from="443" to="460">
+      <feat name="id" value="65"/>
+   </struct>
+   <struct type="PRN" from="443" to="446">
+      <feat name="number" value="singular"/>
+      <feat name="cls" value="Thing"/>
+      <feat name="case" value="possessive"/>
+      <feat name="person" value="third"/>
+      <feat name="string" value="its"/>
+      <feat name="id" value="647"/>
+      <feat name="matches" value="[]"/>
+      <feat name="type" value="anaphoric"/>
+   </struct>
+   <struct type="Date" from="447" to="451">
+      <feat name="kind" value="date"/>
+      <feat name="rule2" value="YearOnlyFinal"/>
+      <feat name="rule1" value="TempYear2"/>
+   </struct>
+   <struct type="Location" from="464" to="470">
+      <feat name="rule2" value="LocFinal"/>
+      <feat name="rule1" value="GazLocation"/>
+      <feat name="locType" value="city"/>
+      <feat name="id" value="28"/>
+   </struct>
+   <struct type="NounChunk" from="464" to="470">
+      <feat name="id" value="66"/>
+   </struct>
+   <struct type="NounChunk" from="481" to="499">
+      <feat name="id" value="67"/>
+   </struct>
+   <struct type="Organization" from="485" to="499">
+      <feat name="rule2" value="OrgFinal"/>
+      <feat name="rule1" value="GazOrganization"/>
+      <feat name="orgType" value="government"/>
+      <feat name="id" value="29"/>
+   </struct>
+   <struct type="NounChunk" from="526" to="535">
+      <feat name="id" value="68"/>
+   </struct>
+   <struct type="NounChunk" from="548" to="563">
+      <feat name="id" value="69"/>
+   </struct>
+   <struct type="NounChunk" from="569" to="571">
+      <feat name="id" value="70"/>
+   </struct>
+   <struct type="PRN" from="569" to="571">
+      <feat name="number" value="singular"/>
+      <feat name="cls" value="Thing"/>
+      <feat name="person" value="third"/>
+      <feat name="case" value="nominative"/>
+      <feat name="string" value="It"/>
+      <feat name="id" value="649"/>
+      <feat name="matches" value="[]"/>
+      <feat name="type" value="anaphoric"/>
+   </struct>
+   <struct type="NounChunk" from="608" to="612">
+      <feat name="id" value="71"/>
+      <feat name="matches" value="[651]"/>
+   </struct>
+   <struct type="Location" from="608" to="612">
+      <feat name="rule2" value="LocFinal"/>
+      <feat name="rule1" value="GazLocation"/>
+      <feat name="locType" value="country"/>
+      <feat name="id" value="30"/>
+   </struct>
+   <struct type="NounChunk" from="620" to="626">
+      <feat name="id" value="72"/>
+   </struct>
+   <struct type="NounChunk" from="630" to="637">
+      <feat name="id" value="73"/>
+      <feat name="matches" value="[653]"/>
+   </struct>
+   <struct type="NounChunk" from="645" to="661">
+      <feat name="id" value="74"/>
+   </struct>
+   <struct type="NounChunk" from="671" to="673">
+      <feat name="id" value="75"/>
+   </struct>
+   <struct type="PRN" from="671" to="673">
+      <feat name="number" value="singular"/>
+      <feat name="cls" value="Thing"/>
+      <feat name="person" value="third"/>
+      <feat name="case" value="nominative"/>
+      <feat name="string" value="it"/>
+      <feat name="id" value="651"/>
+      <feat name="matches" value="[]"/>
+      <feat name="type" value="anaphoric"/>
+   </struct>
+   <struct type="NounChunk" from="674" to="684">
+      <feat name="id" value="76"/>
+   </struct>
+   <struct type="NounChunk" from="695" to="699">
+      <feat name="id" value="77"/>
+   </struct>
+   <struct type="PRN" from="695" to="699">
+      <feat name="number" value="plural"/>
+      <feat name="cls" value="Thing"/>
+      <feat name="person" value="third"/>
+      <feat name="case" value="objective"/>
+      <feat name="string" value="them"/>
+      <feat name="id" value="653"/>
+      <feat name="matches" value="[]"/>
+      <feat name="type" value="anaphoric"/>
+   </struct>
+   <struct type="NounChunk" from="703" to="722">
+      <feat name="id" value="78"/>
+   </struct>
+   <struct type="PRN" from="725" to="727">
+      <feat name="matches" value="[]"/>
+      <feat name="id" value="654"/>
+      <feat name="string" value="he"/>
+      <feat name="gender" value="male"/>
+      <feat name="case" value="nominative"/>
+      <feat name="person" value="third"/>
+      <feat name="cls" value="Person"/>
+      <feat name="number" value="singular"/>
+      <feat name="type" value="anaphoric"/>
+   </struct>
+   <struct type="NounChunk" from="725" to="727">
+      <feat name="id" value="79"/>
+   </struct>
+   <struct type="Organization" from="733" to="765">
+      <feat name="rule2" value="OrgFinal"/>
+      <feat name="rule1" value="OrgXKey"/>
+      <feat name="orgType" value="newspaper/media"/>
+      <feat name="id" value="31"/>
+   </struct>
+   <struct type="NounChunk" from="733" to="765">
+      <feat name="id" value="80"/>
+   </struct>
+   <struct type="NounChunk" from="774" to="776">
+      <feat name="id" value="81"/>
+   </struct>
+   <struct type="PRN" from="774" to="776">
+      <feat name="matches" value="[]"/>
+      <feat name="id" value="655"/>
+      <feat name="string" value="he"/>
+      <feat name="gender" value="male"/>
+      <feat name="case" value="nominative"/>
+      <feat name="person" value="third"/>
+      <feat name="cls" value="Person"/>
+      <feat name="number" value="singular"/>
+      <feat name="type" value="anaphoric"/>
+   </struct>
+   <struct type="NounChunk" from="786" to="813">
+      <feat name="id" value="82"/>
+   </struct>
+   <struct type="NounChunk" from="821" to="838">
+      <feat name="id" value="83"/>
+   </struct>
+   <struct type="NounChunk" from="854" to="858">
+      <feat name="id" value="84"/>
+      <feat name="matches" value="[656]"/>
+   </struct>
+   <struct type="Location" from="854" to="858">
+      <feat name="rule2" value="LocFinal"/>
+      <feat name="rule1" value="GazLocation"/>
+      <feat name="locType" value="country"/>
+      <feat name="id" value="32"/>
+   </struct>
+   <struct type="NounChunk" from="869" to="901">
+      <feat name="id" value="85"/>
+   </struct>
+   <struct type="PRN" from="869" to="872">
+      <feat name="number" value="singular"/>
+      <feat name="cls" value="Thing"/>
+      <feat name="case" value="possessive"/>
+      <feat name="person" value="third"/>
+      <feat name="string" value="its"/>
+      <feat name="id" value="656"/>
+      <feat name="matches" value="[]"/>
+      <feat name="type" value="anaphoric"/>
+   </struct>
+   <struct type="NounChunk" from="906" to="913">
+      <feat name="id" value="86"/>
+   </struct>
+   <struct type="NounChunk" from="935" to="943">
+      <feat name="id" value="87"/>
+   </struct>
+   <struct type="NounChunk" from="947" to="962">
+      <feat name="id" value="88"/>
+   </struct>
+   <struct type="NounChunk" from="967" to="995">
+      <feat name="id" value="89"/>
+   </struct>
+   <struct type="NounChunk" from="999" to="1010">
+      <feat name="id" value="90"/>
+   </struct>
+   <struct type="NounChunk" from="1017" to="1044">
+      <feat name="id" value="91"/>
+   </struct>
+   <struct type="Organization" from="1019" to="1023">
+      <feat name="orgType" value="government"/>
+      <feat name="id" value="33"/>
+   </struct>
+   <struct type="NounChunk" from="1046" to="1048">
+      <feat name="id" value="92"/>
+   </struct>
+   <struct type="PRN" from="1046" to="1048">
+      <feat name="matches" value="[]"/>
+      <feat name="id" value="657"/>
+      <feat name="string" value="he"/>
+      <feat name="gender" value="male"/>
+      <feat name="case" value="nominative"/>
+      <feat name="person" value="third"/>
+      <feat name="cls" value="Person"/>
+      <feat name="number" value="singular"/>
+      <feat name="type" value="anaphoric"/>
+   </struct>
+   <struct type="NounChunk" from="1062" to="1066">
+      <feat name="id" value="93"/>
+   </struct>
+   <struct type="Location" from="1062" to="1066">
+      <feat name="rule2" value="LocFinal"/>
+      <feat name="rule1" value="GazLocation"/>
+      <feat name="locType" value="country"/>
+      <feat name="id" value="34"/>
+   </struct>
+   <struct type="NounChunk" from="1072" to="1089">
+      <feat name="id" value="94"/>
+   </struct>
+   <struct type="Location" from="1076" to="1089">
+      <feat name="rule2" value="LocFinal"/>
+      <feat name="rule1" value="GazLocation"/>
+      <feat name="locType" value="country"/>
+      <feat name="id" value="35"/>
+   </struct>
+   <struct type="NounChunk" from="1094" to="1101">
+      <feat name="id" value="95"/>
+   </struct>
+   <struct type="Location" from="1094" to="1101">
+      <feat name="rule2" value="LocFinal"/>
+      <feat name="rule1" value="GazLocation"/>
+      <feat name="locType" value="country"/>
+      <feat name="id" value="36"/>
+   </struct>
+   <struct type="NounChunk" from="1110" to="1118">
+      <feat name="id" value="96"/>
+   </struct>
+   <struct type="NounChunk" from="1122" to="1141">
+      <feat name="id" value="97"/>
+   </struct>
+   <struct type="NounChunk" from="1149" to="1160">
+      <feat name="id" value="98"/>
+   </struct>
+   <struct type="NounChunk" from="1164" to="1182">
+      <feat name="id" value="99"/>
+   </struct>
+   <struct type="Organization" from="1168" to="1182">
+      <feat name="rule2" value="OrgFinal"/>
+      <feat name="rule1" value="GazOrganization"/>
+      <feat name="orgType" value="government"/>
+      <feat name="id" value="37"/>
+   </struct>
+   <struct type="NounChunk" from="1184" to="1203">
+      <feat name="id" value="100"/>
+      <feat name="matches" value="[660]"/>
+   </struct>
+   <struct type="Organization" from="1188" to="1203">
+      <feat name="rule2" value="OrgFinal"/>
+      <feat name="rule1" value="LocOrganization"/>
+      <feat name="orgType" value="government"/>
+      <feat name="id" value="38"/>
+   </struct>
+   <struct type="Location" from="1188" to="1192">
+      <feat name="locType" value="country"/>
+   </struct>
+   <struct type="PRN" from="1213" to="1215">
+      <feat name="number" value="singular"/>
+      <feat name="cls" value="Thing"/>
+      <feat name="person" value="third"/>
+      <feat name="case" value="nominative"/>
+      <feat name="string" value="it"/>
+      <feat name="id" value="660"/>
+      <feat name="matches" value="[]"/>
+      <feat name="type" value="anaphoric"/>
+   </struct>
+   <struct type="NounChunk" from="1213" to="1215">
+      <feat name="id" value="101"/>
+   </struct>
+   <struct type="Location" from="1237" to="1241">
+      <feat name="rule2" value="LocFinal"/>
+      <feat name="rule1" value="GazLocation"/>
+      <feat name="locType" value="country"/>
+      <feat name="id" value="40"/>
+   </struct>
+   <struct type="NounChunk" from="1237" to="1241">
+      <feat name="id" value="102"/>
+   </struct>
+   <struct type="NounChunk" from="1256" to="1261">
+      <feat name="id" value="103"/>
+   </struct>
+   <struct type="NounChunk" from="1262" to="1266">
+      <feat name="id" value="104"/>
+   </struct>
+   <struct type="NounChunk" from="1300" to="1306">
+      <feat name="id" value="105"/>
+   </struct>
+   <struct type="PRN" from="1311" to="1315">
+      <feat name="number" value="singular"/>
+      <feat name="cls" value="Thing"/>
+      <feat name="person" value="third"/>
+      <feat name="case" value="nominative"/>
+      <feat name="string" value="that"/>
+      <feat name="id" value="663"/>
+      <feat name="matches" value="[]"/>
+      <feat name="type" value="anaphoric"/>
+   </struct>
+   <struct type="NounChunk" from="1341" to="1348">
+      <feat name="id" value="107"/>
+   </struct>
+</cesAna>

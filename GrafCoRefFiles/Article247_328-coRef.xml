@@ -1,0 +1,2878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graph xmlns="http://www.xces.org/ns/GrAF/1.0/">
+    <graphHeader>
+        <labelsDecl>
+            <labelUsage label="Organization" occurs="17"/>
+            <labelUsage label="PRN" occurs="24"/>
+            <labelUsage label="Person" occurs="35"/>
+            <labelUsage label="NounChunk" occurs="148"/>
+        </labelsDecl>
+        <annotationSpaces>
+            <annotationSpace as.id="anc"/>
+        </annotationSpaces>
+    </graphHeader>
+    <region xml:id="coRef-r0" anchors="38 46"/>
+    <node xml:id="coRef-n0">
+        <link targets="coRef-r0"/>
+    </node>
+    <a xml:id="a-5583" label="NounChunk" ref="coRef-n0" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n0"/>
+            <f name="graf:edge" value="penn-n0 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2548"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r1" anchors="51 56"/>
+    <node xml:id="coRef-n1">
+        <link targets="coRef-r1"/>
+    </node>
+    <a xml:id="a-5584" label="NounChunk" ref="coRef-n1" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n1"/>
+            <f name="graf:edge" value="penn-n2 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2549"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r3" anchors="70 80"/>
+    <node xml:id="coRef-n3">
+        <link targets="coRef-r3"/>
+    </node>
+    <a xml:id="a-5586" label="Organization" ref="coRef-n3" as="anc">
+        <fs>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n3 "/>
+            <f name="graf:id" value="ne-n0"/>
+            <f name="type" value="newspaper/media"/>
+            <f name="id" value="9"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r2" anchors="70 80"/>
+    <node xml:id="coRef-n2">
+        <link targets="coRef-r2"/>
+    </node>
+    <a xml:id="a-5585" label="NounChunk" ref="coRef-n2" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n2"/>
+            <f name="graf:edge" value="penn-n3 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2550"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r4" anchors="132 143"/>
+    <node xml:id="coRef-n4">
+        <link targets="coRef-r4"/>
+    </node>
+    <a xml:id="a-5587" label="NounChunk" ref="coRef-n4" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n3"/>
+            <f name="graf:edge" value="penn-n14 penn-n13 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2552"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r5" anchors="155 159"/>
+    <node xml:id="coRef-n5">
+        <link targets="coRef-r5"/>
+    </node>
+    <a xml:id="a-5588" label="NounChunk" ref="coRef-n5" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n4"/>
+            <f name="graf:edge" value="penn-n18 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2553"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r6" anchors="163 173"/>
+    <node xml:id="coRef-n6">
+        <link targets="coRef-r6"/>
+    </node>
+    <a xml:id="a-5589" label="NounChunk" ref="coRef-n6" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n5"/>
+            <f name="graf:edge" value="penn-n21 penn-n20 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2554"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r7" anchors="178 221"/>
+    <node xml:id="coRef-n7">
+        <link targets="coRef-r7"/>
+    </node>
+    <a xml:id="a-5590" label="NounChunk" ref="coRef-n7" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n6"/>
+            <f name="graf:edge" value="penn-n25 penn-n24 penn-n30 penn-n29 penn-n28 penn-n27 penn-n26 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2555"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r8" anchors="180 187"/>
+    <node xml:id="coRef-n8">
+        <link targets="coRef-r8"/>
+    </node>
+    <a xml:id="a-5591" label="Person" ref="coRef-n8" as="anc">
+        <fs>
+            <f name="id" value="2556"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n1"/>
+            <f name="graf:edge" value="penn-n25 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r9" anchors="196 209"/>
+    <node xml:id="coRef-n9">
+        <link targets="coRef-r9"/>
+    </node>
+    <a xml:id="a-5592" label="Person" ref="coRef-n9" as="anc">
+        <fs>
+            <f name="id" value="2557"/>
+            <f name="gender" value="male"/>
+            <f name="graf:id" value="ne-n2"/>
+            <f name="graf:edge" value="penn-n28 penn-n27 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r10" anchors="210 216"/>
+    <node xml:id="coRef-n10">
+        <link targets="coRef-r10"/>
+    </node>
+    <a xml:id="a-5593" label="Organization" ref="coRef-n10" as="anc">
+        <fs>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n29 "/>
+            <f name="graf:id" value="ne-n3"/>
+            <f name="type" value="government"/>
+            <f name="id" value="16"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r11" anchors="231 243"/>
+    <node xml:id="coRef-n11">
+        <link targets="coRef-r11"/>
+    </node>
+    <a xml:id="a-5594" label="NounChunk" ref="coRef-n11" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n7"/>
+            <f name="graf:edge" value="penn-n34 penn-n33 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2559"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r12" anchors="248 266"/>
+    <node xml:id="coRef-n12">
+        <link targets="coRef-r12"/>
+    </node>
+    <a xml:id="a-5595" label="NounChunk" ref="coRef-n12" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n8"/>
+            <f name="graf:edge" value="penn-n38 penn-n37 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2560"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r13" anchors="287 295"/>
+    <node xml:id="coRef-n13">
+        <link targets="coRef-r13"/>
+    </node>
+    <a xml:id="a-5596" label="NounChunk" ref="coRef-n13" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n9"/>
+            <f name="graf:edge" value="penn-n43 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2561"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r14" anchors="287 295"/>
+    <node xml:id="coRef-n14">
+        <link targets="coRef-r14"/>
+    </node>
+    <a xml:id="a-5597" label="Person" ref="coRef-n14" as="anc">
+        <fs>
+            <f name="id" value="2562"/>
+            <f name="gender" value="male"/>
+            <f name="graf:id" value="ne-n4"/>
+            <f name="graf:edge" value="penn-n43 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r15" anchors="297 300"/>
+    <node xml:id="coRef-n15">
+        <link targets="coRef-r15"/>
+    </node>
+    <a xml:id="a-5598" label="NounChunk" ref="coRef-n15" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n10"/>
+            <f name="graf:edge" value="penn-n45 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2563"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r17" anchors="322 333"/>
+    <node xml:id="coRef-n17">
+        <link targets="coRef-r17"/>
+    </node>
+    <a xml:id="a-5600" label="NounChunk" ref="coRef-n17" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n11"/>
+            <f name="graf:edge" value="penn-n51 penn-n50 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2565"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r16" anchors="322 333"/>
+    <node xml:id="coRef-n16">
+        <link targets="coRef-r16"/>
+    </node>
+    <a xml:id="a-5599" label="Organization" ref="coRef-n16" as="anc">
+        <fs>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n51 penn-n50 "/>
+            <f name="graf:id" value="ne-n5"/>
+            <f name="type" value="newspaper/media"/>
+            <f name="id" value="22"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r18" anchors="342 343"/>
+    <node xml:id="coRef-n18">
+        <link targets="coRef-r18"/>
+    </node>
+    <a xml:id="a-5601" label="NounChunk" ref="coRef-n18" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n12"/>
+            <f name="graf:edge" value="penn-n54 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2566"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r19" anchors="357 363"/>
+    <node xml:id="coRef-n19">
+        <link targets="coRef-r19"/>
+    </node>
+    <a xml:id="a-5602" label="NounChunk" ref="coRef-n19" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n13"/>
+            <f name="graf:edge" value="penn-n56 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2567"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r20" anchors="364 371"/>
+    <node xml:id="coRef-n20">
+        <link targets="coRef-r20"/>
+    </node>
+    <a xml:id="a-5603" label="NounChunk" ref="coRef-n20" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n14"/>
+            <f name="graf:edge" value="penn-n57 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2568"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r21" anchors="376 388"/>
+    <node xml:id="coRef-n21">
+        <link targets="coRef-r21"/>
+    </node>
+    <a xml:id="a-5604" label="NounChunk" ref="coRef-n21" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n15"/>
+            <f name="graf:edge" value="penn-n61 penn-n60 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2569"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r22" anchors="394 409"/>
+    <node xml:id="coRef-n22">
+        <link targets="coRef-r22"/>
+    </node>
+    <a xml:id="a-5605" label="NounChunk" ref="coRef-n22" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n16"/>
+            <f name="graf:edge" value="penn-n66 penn-n65 penn-n64 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2570"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r23" anchors="412 426"/>
+    <node xml:id="coRef-n23">
+        <link targets="coRef-r23"/>
+    </node>
+    <a xml:id="a-5606" label="NounChunk" ref="coRef-n23" as="anc">
+        <fs>
+            <f name="matches" value="[1487]"/>
+            <f name="id" value="2571"/>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n71 penn-n70 penn-n69 "/>
+            <f name="graf:id" value="nc-n17"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r24" anchors="439 455"/>
+    <node xml:id="coRef-n24">
+        <link targets="coRef-r24"/>
+    </node>
+    <a xml:id="a-5607" label="NounChunk" ref="coRef-n24" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n18"/>
+            <f name="graf:edge" value="penn-n75 penn-n74 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2572"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r25" anchors="459 483"/>
+    <node xml:id="coRef-n25">
+        <link targets="coRef-r25"/>
+    </node>
+    <a xml:id="a-5608" label="NounChunk" ref="coRef-n25" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n19"/>
+            <f name="graf:edge" value="penn-n79 penn-n78 penn-n77 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2573"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r26" anchors="459 462"/>
+    <node xml:id="coRef-n26">
+        <link targets="coRef-r26"/>
+    </node>
+    <a xml:id="a-5609" label="PRN" ref="coRef-n26" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1487"/>
+            <f name="string" value="her"/>
+            <f name="gender" value="female"/>
+            <f name="case" value="objective"/>
+            <f name="person" value="third"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r27" anchors="500 512"/>
+    <node xml:id="coRef-n27">
+        <link targets="coRef-r27"/>
+    </node>
+    <a xml:id="a-5610" label="NounChunk" ref="coRef-n27" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n20"/>
+            <f name="graf:edge" value="penn-n83 penn-n82 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2575"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r28" anchors="516 536"/>
+    <node xml:id="coRef-n28">
+        <link targets="coRef-r28"/>
+    </node>
+    <a xml:id="a-5611" label="NounChunk" ref="coRef-n28" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n21"/>
+            <f name="graf:edge" value="penn-n87 penn-n86 penn-n85 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2576"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r29" anchors="520 536"/>
+    <node xml:id="coRef-n29">
+        <link targets="coRef-r29"/>
+    </node>
+    <a xml:id="a-5612" label="Organization" ref="coRef-n29" as="anc">
+        <fs>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n87 penn-n86 "/>
+            <f name="graf:id" value="ne-n6"/>
+            <f name="type" value="politcal party"/>
+            <f name="id" value="35"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r30" anchors="540 553"/>
+    <node xml:id="coRef-n30">
+        <link targets="coRef-r30"/>
+    </node>
+    <a xml:id="a-5613" label="NounChunk" ref="coRef-n30" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n22"/>
+            <f name="graf:edge" value="penn-n91 penn-n90 penn-n89 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2578"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r32" anchors="555 559"/>
+    <node xml:id="coRef-n32">
+        <link targets="coRef-r32"/>
+    </node>
+    <a xml:id="a-5615" label="PRN" ref="coRef-n32" as="anc">
+        <fs>
+            <f name="number" value="singular"/>
+            <f name="cls" value="Thing"/>
+            <f name="person" value="third"/>
+            <f name="case" value="nominative"/>
+            <f name="string" value="That"/>
+            <f name="id" value="1488"/>
+            <f name="matches" value="[]"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r31" anchors="555 559"/>
+    <node xml:id="coRef-n31">
+        <link targets="coRef-r31"/>
+    </node>
+    <a xml:id="a-5614" label="NounChunk" ref="coRef-n31" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n23"/>
+            <f name="graf:edge" value="penn-n93 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2580"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r34" anchors="580 590"/>
+    <node xml:id="coRef-n34">
+        <link targets="coRef-r34"/>
+    </node>
+    <a xml:id="a-5617" label="NounChunk" ref="coRef-n34" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n24"/>
+            <f name="graf:edge" value="penn-n98 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2582"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r33" anchors="580 590"/>
+    <node xml:id="coRef-n33">
+        <link targets="coRef-r33"/>
+    </node>
+    <a xml:id="a-5616" label="Organization" ref="coRef-n33" as="anc">
+        <fs>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n98 "/>
+            <f name="graf:id" value="ne-n7"/>
+            <f name="type" value="newspaper/media"/>
+            <f name="id" value="39"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r35" anchors="606 634"/>
+    <node xml:id="coRef-n35">
+        <link targets="coRef-r35"/>
+    </node>
+    <a xml:id="a-5618" label="NounChunk" ref="coRef-n35" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n25"/>
+            <f name="graf:edge" value="penn-n106 penn-n105 penn-n104 penn-n103 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2583"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r36" anchors="606 613"/>
+    <node xml:id="coRef-n36">
+        <link targets="coRef-r36"/>
+    </node>
+    <a xml:id="a-5619" label="Person" ref="coRef-n36" as="anc">
+        <fs>
+            <f name="id" value="2584"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n8"/>
+            <f name="graf:edge" value="penn-n103 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r37" anchors="618 624"/>
+    <node xml:id="coRef-n37">
+        <link targets="coRef-r37"/>
+    </node>
+    <a xml:id="a-5620" label="Organization" ref="coRef-n37" as="anc">
+        <fs>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n105 "/>
+            <f name="graf:id" value="ne-n9"/>
+            <f name="type" value="government"/>
+            <f name="id" value="43"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r38" anchors="649 678"/>
+    <node xml:id="coRef-n38">
+        <link targets="coRef-r38"/>
+    </node>
+    <a xml:id="a-5621" label="NounChunk" ref="coRef-n38" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n26"/>
+            <f name="graf:edge" value="penn-n111 penn-n110 penn-n109 penn-n108 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2586"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r40" anchors="687 695"/>
+    <node xml:id="coRef-n40">
+        <link targets="coRef-r40"/>
+    </node>
+    <a xml:id="a-5623" label="NounChunk" ref="coRef-n40" as="anc">
+        <fs>
+            <f name="matches" value="[1491,1493,1494,1495]"/>
+            <f name="id" value="2587"/>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n114 "/>
+            <f name="graf:id" value="nc-n27"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r39" anchors="687 695"/>
+    <node xml:id="coRef-n39">
+        <link targets="coRef-r39"/>
+    </node>
+    <a xml:id="a-5622" label="Person" ref="coRef-n39" as="anc">
+        <fs>
+            <f name="id" value="2588"/>
+            <f name="gender" value="male"/>
+            <f name="graf:id" value="ne-n10"/>
+            <f name="graf:edge" value="penn-n114 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r42" anchors="707 722"/>
+    <node xml:id="coRef-n42">
+        <link targets="coRef-r42"/>
+    </node>
+    <a xml:id="a-5625" label="Person" ref="coRef-n42" as="anc">
+        <fs>
+            <f name="id" value="2590"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n11"/>
+            <f name="graf:edge" value="penn-n118 penn-n117 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r41" anchors="707 722"/>
+    <node xml:id="coRef-n41">
+        <link targets="coRef-r41"/>
+    </node>
+    <a xml:id="a-5624" label="NounChunk" ref="coRef-n41" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n28"/>
+            <f name="graf:edge" value="penn-n118 penn-n117 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2589"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r43" anchors="722 741"/>
+    <node xml:id="coRef-n43">
+        <link targets="coRef-r43"/>
+    </node>
+    <a xml:id="a-5626" label="NounChunk" ref="coRef-n43" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n29"/>
+            <f name="graf:edge" value="penn-n121 penn-n120 penn-n119 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2591"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r44" anchors="742 764"/>
+    <node xml:id="coRef-n44">
+        <link targets="coRef-r44"/>
+    </node>
+    <a xml:id="a-5627" label="NounChunk" ref="coRef-n44" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n30"/>
+            <f name="graf:edge" value="penn-n125 penn-n124 penn-n123 penn-n122 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2592"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r46" anchors="767 775"/>
+    <node xml:id="coRef-n46">
+        <link targets="coRef-r46"/>
+    </node>
+    <a xml:id="a-5629" label="Person" ref="coRef-n46" as="anc">
+        <fs>
+            <f name="id" value="2593"/>
+            <f name="gender" value="male"/>
+            <f name="graf:id" value="ne-n12"/>
+            <f name="graf:edge" value="penn-n128 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r45" anchors="767 775"/>
+    <node xml:id="coRef-n45">
+        <link targets="coRef-r45"/>
+    </node>
+    <a xml:id="a-5628" label="NounChunk" ref="coRef-n45" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n31"/>
+            <f name="graf:edge" value="penn-n128 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2594"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r48" anchors="782 791"/>
+    <node xml:id="coRef-n48">
+        <link targets="coRef-r48"/>
+    </node>
+    <a xml:id="a-5631" label="Person" ref="coRef-n48" as="anc">
+        <fs>
+            <f name="id" value="2595"/>
+            <f name="gender" value="male"/>
+            <f name="graf:id" value="ne-n13"/>
+            <f name="graf:edge" value="penn-n131 penn-n130 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r47" anchors="782 791"/>
+    <node xml:id="coRef-n47">
+        <link targets="coRef-r47"/>
+    </node>
+    <a xml:id="a-5630" label="NounChunk" ref="coRef-n47" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n32"/>
+            <f name="graf:edge" value="penn-n131 penn-n130 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2596"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r49" anchors="802 809"/>
+    <node xml:id="coRef-n49">
+        <link targets="coRef-r49"/>
+    </node>
+    <a xml:id="a-5632" label="NounChunk" ref="coRef-n49" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n33"/>
+            <f name="graf:edge" value="penn-n135 penn-n134 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2597"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r50" anchors="818 822"/>
+    <node xml:id="coRef-n50">
+        <link targets="coRef-r50"/>
+    </node>
+    <a xml:id="a-5633" label="Organization" ref="coRef-n50" as="anc">
+        <fs>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n139 "/>
+            <f name="graf:id" value="ne-n14"/>
+            <f name="type" value="newspaper/media"/>
+            <f name="id" value="56"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r51" anchors="818 822"/>
+    <node xml:id="coRef-n51">
+        <link targets="coRef-r51"/>
+    </node>
+    <a xml:id="a-5634" label="NounChunk" ref="coRef-n51" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n34"/>
+            <f name="graf:edge" value="penn-n139 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2599"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r52" anchors="823 832"/>
+    <node xml:id="coRef-n52">
+        <link targets="coRef-r52"/>
+    </node>
+    <a xml:id="a-5635" label="NounChunk" ref="coRef-n52" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n35"/>
+            <f name="graf:edge" value="penn-n141 penn-n140 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2600"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r53" anchors="852 856"/>
+    <node xml:id="coRef-n53">
+        <link targets="coRef-r53"/>
+    </node>
+    <a xml:id="a-5636" label="NounChunk" ref="coRef-n53" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n36"/>
+            <f name="graf:edge" value="penn-n149 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2601"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r54" anchors="868 884"/>
+    <node xml:id="coRef-n54">
+        <link targets="coRef-r54"/>
+    </node>
+    <a xml:id="a-5637" label="NounChunk" ref="coRef-n54" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n37"/>
+            <f name="graf:edge" value="penn-n155 penn-n154 penn-n153 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2602"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r55" anchors="892 917"/>
+    <node xml:id="coRef-n55">
+        <link targets="coRef-r55"/>
+    </node>
+    <a xml:id="a-5638" label="NounChunk" ref="coRef-n55" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n38"/>
+            <f name="graf:edge" value="penn-n161 penn-n160 penn-n159 penn-n158 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2603"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r56" anchors="892 895"/>
+    <node xml:id="coRef-n56">
+        <link targets="coRef-r56"/>
+    </node>
+    <a xml:id="a-5639" label="PRN" ref="coRef-n56" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1491"/>
+            <f name="string" value="his"/>
+            <f name="gender" value="male"/>
+            <f name="case" value="possessive"/>
+            <f name="person" value="third"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r57" anchors="919 923"/>
+    <node xml:id="coRef-n57">
+        <link targets="coRef-r57"/>
+    </node>
+    <a xml:id="a-5640" label="NounChunk" ref="coRef-n57" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n39"/>
+            <f name="graf:edge" value="penn-n163 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2605"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r58" anchors="949 958"/>
+    <node xml:id="coRef-n58">
+        <link targets="coRef-r58"/>
+    </node>
+    <a xml:id="a-5641" label="NounChunk" ref="coRef-n58" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n40"/>
+            <f name="graf:edge" value="penn-n169 penn-n168 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2606"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r59" anchors="992 999"/>
+    <node xml:id="coRef-n59">
+        <link targets="coRef-r59"/>
+    </node>
+    <a xml:id="a-5642" label="NounChunk" ref="coRef-n59" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n41"/>
+            <f name="graf:edge" value="penn-n178 penn-n177 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2607"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r60" anchors="1012 1053"/>
+    <node xml:id="coRef-n60">
+        <link targets="coRef-r60"/>
+    </node>
+    <a xml:id="a-5643" label="NounChunk" ref="coRef-n60" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n42"/>
+            <f name="graf:edge" value="penn-n182 penn-n181 penn-n185 penn-n184 penn-n183 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2608"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r61" anchors="1057 1067"/>
+    <node xml:id="coRef-n61">
+        <link targets="coRef-r61"/>
+    </node>
+    <a xml:id="a-5644" label="NounChunk" ref="coRef-n61" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n43"/>
+            <f name="graf:edge" value="penn-n188 penn-n187 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2609"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r62" anchors="1061 1067"/>
+    <node xml:id="coRef-n62">
+        <link targets="coRef-r62"/>
+    </node>
+    <a xml:id="a-5645" label="Organization" ref="coRef-n62" as="anc">
+        <fs>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n188 "/>
+            <f name="graf:id" value="ne-n15"/>
+            <f name="type" value="government"/>
+            <f name="id" value="68"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r63" anchors="1069 1083"/>
+    <node xml:id="coRef-n63">
+        <link targets="coRef-r63"/>
+    </node>
+    <a xml:id="a-5646" label="NounChunk" ref="coRef-n63" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n44"/>
+            <f name="graf:edge" value="penn-n191 penn-n190 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2611"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r64" anchors="1100 1141"/>
+    <node xml:id="coRef-n64">
+        <link targets="coRef-r64"/>
+    </node>
+    <a xml:id="a-5647" label="NounChunk" ref="coRef-n64" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n45"/>
+            <f name="graf:edge" value="penn-n200 penn-n199 penn-n198 penn-n197 penn-n196 penn-n195 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2612"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r65" anchors="1100 1103"/>
+    <node xml:id="coRef-n65">
+        <link targets="coRef-r65"/>
+    </node>
+    <a xml:id="a-5648" label="PRN" ref="coRef-n65" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1493"/>
+            <f name="string" value="his"/>
+            <f name="gender" value="male"/>
+            <f name="case" value="possessive"/>
+            <f name="person" value="third"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r66" anchors="1143 1157"/>
+    <node xml:id="coRef-n66">
+        <link targets="coRef-r66"/>
+    </node>
+    <a xml:id="a-5649" label="NounChunk" ref="coRef-n66" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n46"/>
+            <f name="graf:edge" value="penn-n204 penn-n203 penn-n202 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2614"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r68" anchors="1158 1160"/>
+    <node xml:id="coRef-n68">
+        <link targets="coRef-r68"/>
+    </node>
+    <a xml:id="a-5651" label="PRN" ref="coRef-n68" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1494"/>
+            <f name="string" value="he"/>
+            <f name="gender" value="male"/>
+            <f name="case" value="nominative"/>
+            <f name="person" value="third"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r67" anchors="1158 1160"/>
+    <node xml:id="coRef-n67">
+        <link targets="coRef-r67"/>
+    </node>
+    <a xml:id="a-5650" label="NounChunk" ref="coRef-n67" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n47"/>
+            <f name="graf:edge" value="penn-n205 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2615"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r69" anchors="1178 1192"/>
+    <node xml:id="coRef-n69">
+        <link targets="coRef-r69"/>
+    </node>
+    <a xml:id="a-5652" label="NounChunk" ref="coRef-n69" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n48"/>
+            <f name="graf:edge" value="penn-n211 penn-n210 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2617"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r70" anchors="1196 1211"/>
+    <node xml:id="coRef-n70">
+        <link targets="coRef-r70"/>
+    </node>
+    <a xml:id="a-5653" label="NounChunk" ref="coRef-n70" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n49"/>
+            <f name="graf:edge" value="penn-n214 penn-n213 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2618"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r71" anchors="1215 1232"/>
+    <node xml:id="coRef-n71">
+        <link targets="coRef-r71"/>
+    </node>
+    <a xml:id="a-5654" label="NounChunk" ref="coRef-n71" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n50"/>
+            <f name="graf:edge" value="penn-n218 penn-n217 penn-n216 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2619"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r72" anchors="1215 1218"/>
+    <node xml:id="coRef-n72">
+        <link targets="coRef-r72"/>
+    </node>
+    <a xml:id="a-5655" label="PRN" ref="coRef-n72" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1495"/>
+            <f name="string" value="his"/>
+            <f name="gender" value="male"/>
+            <f name="case" value="possessive"/>
+            <f name="person" value="third"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r73" anchors="1247 1255"/>
+    <node xml:id="coRef-n73">
+        <link targets="coRef-r73"/>
+    </node>
+    <a xml:id="a-5656" label="Person" ref="coRef-n73" as="anc">
+        <fs>
+            <f name="id" value="2622"/>
+            <f name="gender" value="male"/>
+            <f name="graf:id" value="ne-n16"/>
+            <f name="graf:edge" value="penn-n220 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r74" anchors="1247 1255"/>
+    <node xml:id="coRef-n74">
+        <link targets="coRef-r74"/>
+    </node>
+    <a xml:id="a-5657" label="NounChunk" ref="coRef-n74" as="anc">
+        <fs>
+            <f name="matches" value="[1496,1499,1501,1502]"/>
+            <f name="id" value="2621"/>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n220 "/>
+            <f name="graf:id" value="nc-n51"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r75" anchors="1255 1270"/>
+    <node xml:id="coRef-n75">
+        <link targets="coRef-r75"/>
+    </node>
+    <a xml:id="a-5658" label="NounChunk" ref="coRef-n75" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n52"/>
+            <f name="graf:edge" value="penn-n222 penn-n221 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2623"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r76" anchors="1276 1284"/>
+    <node xml:id="coRef-n76">
+        <link targets="coRef-r76"/>
+    </node>
+    <a xml:id="a-5659" label="NounChunk" ref="coRef-n76" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n53"/>
+            <f name="graf:edge" value="penn-n225 penn-n224 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2624"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r77" anchors="1276 1279"/>
+    <node xml:id="coRef-n77">
+        <link targets="coRef-r77"/>
+    </node>
+    <a xml:id="a-5660" label="PRN" ref="coRef-n77" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1496"/>
+            <f name="string" value="his"/>
+            <f name="gender" value="male"/>
+            <f name="case" value="possessive"/>
+            <f name="person" value="third"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r78" anchors="1286 1299"/>
+    <node xml:id="coRef-n78">
+        <link targets="coRef-r78"/>
+    </node>
+    <a xml:id="a-5661" label="Person" ref="coRef-n78" as="anc">
+        <fs>
+            <f name="id" value="2626"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n17"/>
+            <f name="graf:edge" value="penn-n228 penn-n227 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r79" anchors="1286 1299"/>
+    <node xml:id="coRef-n79">
+        <link targets="coRef-r79"/>
+    </node>
+    <a xml:id="a-5662" label="NounChunk" ref="coRef-n79" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n54"/>
+            <f name="graf:edge" value="penn-n227 penn-n228 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2627"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r80" anchors="1318 1330"/>
+    <node xml:id="coRef-n80">
+        <link targets="coRef-r80"/>
+    </node>
+    <a xml:id="a-5663" label="NounChunk" ref="coRef-n80" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n55"/>
+            <f name="graf:edge" value="penn-n235 penn-n234 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2628"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r82" anchors="1336 1343"/>
+    <node xml:id="coRef-n82">
+        <link targets="coRef-r82"/>
+    </node>
+    <a xml:id="a-5665" label="NounChunk" ref="coRef-n82" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n56"/>
+            <f name="graf:edge" value="penn-n237 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2630"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r81" anchors="1336 1343"/>
+    <node xml:id="coRef-n81">
+        <link targets="coRef-r81"/>
+    </node>
+    <a xml:id="a-5664" label="Person" ref="coRef-n81" as="anc">
+        <fs>
+            <f name="id" value="2629"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n18"/>
+            <f name="graf:edge" value="penn-n237 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r83" anchors="1344 1348"/>
+    <node xml:id="coRef-n83">
+        <link targets="coRef-r83"/>
+    </node>
+    <a xml:id="a-5666" label="NounChunk" ref="coRef-n83" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n57"/>
+            <f name="graf:edge" value="penn-n238 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2631"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r84" anchors="1360 1365"/>
+    <node xml:id="coRef-n84">
+        <link targets="coRef-r84"/>
+    </node>
+    <a xml:id="a-5667" label="NounChunk" ref="coRef-n84" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n58"/>
+            <f name="graf:edge" value="penn-n241 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2632"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r85" anchors="1365 1382"/>
+    <node xml:id="coRef-n85">
+        <link targets="coRef-r85"/>
+    </node>
+    <a xml:id="a-5668" label="NounChunk" ref="coRef-n85" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n59"/>
+            <f name="graf:edge" value="penn-n245 penn-n244 penn-n243 penn-n242 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2633"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r86" anchors="1368 1382"/>
+    <node xml:id="coRef-n86">
+        <link targets="coRef-r86"/>
+    </node>
+    <a xml:id="a-5669" label="Organization" ref="coRef-n86" as="anc">
+        <fs>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n245 penn-n244 penn-n243 "/>
+            <f name="graf:id" value="ne-n19"/>
+            <f name="type" value="newspaper/media"/>
+            <f name="id" value="92"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r88" anchors="1385 1392"/>
+    <node xml:id="coRef-n88">
+        <link targets="coRef-r88"/>
+    </node>
+    <a xml:id="a-5671" label="Person" ref="coRef-n88" as="anc">
+        <fs>
+            <f name="id" value="2636"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n20"/>
+            <f name="graf:edge" value="penn-n247 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r87" anchors="1385 1392"/>
+    <node xml:id="coRef-n87">
+        <link targets="coRef-r87"/>
+    </node>
+    <a xml:id="a-5670" label="NounChunk" ref="coRef-n87" as="anc">
+        <fs>
+            <f name="matches" value="[1498,1500,1503,1506,1508]"/>
+            <f name="id" value="2635"/>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n247 "/>
+            <f name="graf:id" value="nc-n60"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r89" anchors="1416 1424"/>
+    <node xml:id="coRef-n89">
+        <link targets="coRef-r89"/>
+    </node>
+    <a xml:id="a-5672" label="NounChunk" ref="coRef-n89" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n61"/>
+            <f name="graf:edge" value="penn-n253 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2637"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r90" anchors="1416 1424"/>
+    <node xml:id="coRef-n90">
+        <link targets="coRef-r90"/>
+    </node>
+    <a xml:id="a-5673" label="Person" ref="coRef-n90" as="anc">
+        <fs>
+            <f name="id" value="2638"/>
+            <f name="gender" value="male"/>
+            <f name="graf:id" value="ne-n21"/>
+            <f name="graf:edge" value="penn-n253 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r91" anchors="1439 1449"/>
+    <node xml:id="coRef-n91">
+        <link targets="coRef-r91"/>
+    </node>
+    <a xml:id="a-5674" label="NounChunk" ref="coRef-n91" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n62"/>
+            <f name="graf:edge" value="penn-n258 penn-n257 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2639"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r92" anchors="1443 1449"/>
+    <node xml:id="coRef-n92">
+        <link targets="coRef-r92"/>
+    </node>
+    <a xml:id="a-5675" label="Organization" ref="coRef-n92" as="anc">
+        <fs>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n258 "/>
+            <f name="graf:id" value="ne-n22"/>
+            <f name="type" value="government"/>
+            <f name="id" value="98"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r93" anchors="1459 1462"/>
+    <node xml:id="coRef-n93">
+        <link targets="coRef-r93"/>
+    </node>
+    <a xml:id="a-5676" label="NounChunk" ref="coRef-n93" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n63"/>
+            <f name="graf:edge" value="penn-n261 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2641"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r94" anchors="1459 1462"/>
+    <node xml:id="coRef-n94">
+        <link targets="coRef-r94"/>
+    </node>
+    <a xml:id="a-5677" label="PRN" ref="coRef-n94" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1498"/>
+            <f name="string" value="she"/>
+            <f name="gender" value="female"/>
+            <f name="case" value="nominative"/>
+            <f name="person" value="third"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r95" anchors="1474 1477"/>
+    <node xml:id="coRef-n95">
+        <link targets="coRef-r95"/>
+    </node>
+    <a xml:id="a-5678" label="PRN" ref="coRef-n95" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1499"/>
+            <f name="string" value="him"/>
+            <f name="gender" value="male"/>
+            <f name="case" value="objective"/>
+            <f name="person" value="third"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r96" anchors="1474 1477"/>
+    <node xml:id="coRef-n96">
+        <link targets="coRef-r96"/>
+    </node>
+    <a xml:id="a-5679" label="NounChunk" ref="coRef-n96" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n64"/>
+            <f name="graf:edge" value="penn-n264 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2644"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r97" anchors="1489 1495"/>
+    <node xml:id="coRef-n97">
+        <link targets="coRef-r97"/>
+    </node>
+    <a xml:id="a-5680" label="NounChunk" ref="coRef-n97" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n65"/>
+            <f name="graf:edge" value="penn-n268 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2645"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r98" anchors="1489 1495"/>
+    <node xml:id="coRef-n98">
+        <link targets="coRef-r98"/>
+    </node>
+    <a xml:id="a-5681" label="Organization" ref="coRef-n98" as="anc">
+        <fs>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n268 "/>
+            <f name="graf:id" value="ne-n23"/>
+            <f name="type" value="government"/>
+            <f name="id" value="104"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r100" anchors="1508 1511"/>
+    <node xml:id="coRef-n100">
+        <link targets="coRef-r100"/>
+    </node>
+    <a xml:id="a-5683" label="NounChunk" ref="coRef-n100" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n66"/>
+            <f name="graf:edge" value="penn-n272 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2648"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r99" anchors="1508 1511"/>
+    <node xml:id="coRef-n99">
+        <link targets="coRef-r99"/>
+    </node>
+    <a xml:id="a-5682" label="PRN" ref="coRef-n99" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1500"/>
+            <f name="string" value="she"/>
+            <f name="gender" value="female"/>
+            <f name="case" value="nominative"/>
+            <f name="person" value="third"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r102" anchors="1531 1534"/>
+    <node xml:id="coRef-n102">
+        <link targets="coRef-r102"/>
+    </node>
+    <a xml:id="a-5685" label="NounChunk" ref="coRef-n102" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n67"/>
+            <f name="graf:edge" value="penn-n276 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2650"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r101" anchors="1531 1534"/>
+    <node xml:id="coRef-n101">
+        <link targets="coRef-r101"/>
+    </node>
+    <a xml:id="a-5684" label="PRN" ref="coRef-n101" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1501"/>
+            <f name="string" value="him"/>
+            <f name="gender" value="male"/>
+            <f name="case" value="objective"/>
+            <f name="person" value="third"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r104" anchors="1538 1540"/>
+    <node xml:id="coRef-n104">
+        <link targets="coRef-r104"/>
+    </node>
+    <a xml:id="a-5687" label="NounChunk" ref="coRef-n104" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n68"/>
+            <f name="graf:edge" value="penn-n278 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2652"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r103" anchors="1538 1540"/>
+    <node xml:id="coRef-n103">
+        <link targets="coRef-r103"/>
+    </node>
+    <a xml:id="a-5686" label="PRN" ref="coRef-n103" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1502"/>
+            <f name="string" value="he"/>
+            <f name="gender" value="male"/>
+            <f name="case" value="nominative"/>
+            <f name="person" value="third"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r106" anchors="1550 1553"/>
+    <node xml:id="coRef-n106">
+        <link targets="coRef-r106"/>
+    </node>
+    <a xml:id="a-5689" label="NounChunk" ref="coRef-n106" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n69"/>
+            <f name="graf:edge" value="penn-n282 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2654"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r105" anchors="1550 1553"/>
+    <node xml:id="coRef-n105">
+        <link targets="coRef-r105"/>
+    </node>
+    <a xml:id="a-5688" label="PRN" ref="coRef-n105" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1503"/>
+            <f name="string" value="she"/>
+            <f name="gender" value="female"/>
+            <f name="case" value="nominative"/>
+            <f name="person" value="third"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r107" anchors="1565 1578"/>
+    <node xml:id="coRef-n107">
+        <link targets="coRef-r107"/>
+    </node>
+    <a xml:id="a-5690" label="NounChunk" ref="coRef-n107" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n70"/>
+            <f name="graf:edge" value="penn-n287 penn-n286 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2655"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r108" anchors="1580 1585"/>
+    <node xml:id="coRef-n108">
+        <link targets="coRef-r108"/>
+    </node>
+    <a xml:id="a-5691" label="NounChunk" ref="coRef-n108" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n71"/>
+            <f name="graf:edge" value="penn-n289 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2656"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r109" anchors="1607 1624"/>
+    <node xml:id="coRef-n109">
+        <link targets="coRef-r109"/>
+    </node>
+    <a xml:id="a-5692" label="NounChunk" ref="coRef-n109" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n72"/>
+            <f name="graf:edge" value="penn-n295 penn-n294 penn-n293 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2657"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r110" anchors="1628 1639"/>
+    <node xml:id="coRef-n110">
+        <link targets="coRef-r110"/>
+    </node>
+    <a xml:id="a-5693" label="NounChunk" ref="coRef-n110" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n73"/>
+            <f name="graf:edge" value="penn-n297 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2658"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r111" anchors="1646 1668"/>
+    <node xml:id="coRef-n111">
+        <link targets="coRef-r111"/>
+    </node>
+    <a xml:id="a-5694" label="Person" ref="coRef-n111" as="anc">
+        <fs>
+            <f name="id" value="2659"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n24"/>
+            <f name="graf:edge" value="penn-n299 penn-n301 penn-n300 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r112" anchors="1646 1668"/>
+    <node xml:id="coRef-n112">
+        <link targets="coRef-r112"/>
+    </node>
+    <a xml:id="a-5695" label="NounChunk" ref="coRef-n112" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n74"/>
+            <f name="graf:edge" value="penn-n301 penn-n300 penn-n299 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2660"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r113" anchors="1668 1679"/>
+    <node xml:id="coRef-n113">
+        <link targets="coRef-r113"/>
+    </node>
+    <a xml:id="a-5696" label="NounChunk" ref="coRef-n113" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n75"/>
+            <f name="graf:edge" value="penn-n303 penn-n302 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2661"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r114" anchors="1683 1712"/>
+    <node xml:id="coRef-n114">
+        <link targets="coRef-r114"/>
+    </node>
+    <a xml:id="a-5697" label="NounChunk" ref="coRef-n114" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n76"/>
+            <f name="graf:edge" value="penn-n310 penn-n309 penn-n308 penn-n307 penn-n306 penn-n305 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2662"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r115" anchors="1692 1707"/>
+    <node xml:id="coRef-n115">
+        <link targets="coRef-r115"/>
+    </node>
+    <a xml:id="a-5698" label="Organization" ref="coRef-n115" as="anc">
+        <fs>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n309 penn-n308 penn-n307 "/>
+            <f name="graf:id" value="ne-n25"/>
+            <f name="type" value="government"/>
+            <f name="id" value="121"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r116" anchors="1719 1731"/>
+    <node xml:id="coRef-n116">
+        <link targets="coRef-r116"/>
+    </node>
+    <a xml:id="a-5699" label="NounChunk" ref="coRef-n116" as="anc">
+        <fs>
+            <f name="matches" value="[1507,1509,1510]"/>
+            <f name="id" value="2664"/>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n315 penn-n314 penn-n313 "/>
+            <f name="graf:id" value="nc-n77"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r117" anchors="1724 1731"/>
+    <node xml:id="coRef-n117">
+        <link targets="coRef-r117"/>
+    </node>
+    <a xml:id="a-5700" label="Person" ref="coRef-n117" as="anc">
+        <fs>
+            <f name="id" value="2665"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n26"/>
+            <f name="graf:edge" value="penn-n315 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r118" anchors="1735 1736"/>
+    <node xml:id="coRef-n118">
+        <link targets="coRef-r118"/>
+    </node>
+    <a xml:id="a-5701" label="NounChunk" ref="coRef-n118" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n78"/>
+            <f name="graf:edge" value="penn-n317 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2666"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r119" anchors="1737 1762"/>
+    <node xml:id="coRef-n119">
+        <link targets="coRef-r119"/>
+    </node>
+    <a xml:id="a-5702" label="NounChunk" ref="coRef-n119" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n79"/>
+            <f name="graf:edge" value="penn-n322 penn-n321 penn-n320 penn-n319 penn-n318 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2667"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r120" anchors="1765 1766"/>
+    <node xml:id="coRef-n120">
+        <link targets="coRef-r120"/>
+    </node>
+    <a xml:id="a-5703" label="PRN" ref="coRef-n120" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1506"/>
+            <f name="string" value="I"/>
+            <f name="gender" value="either"/>
+            <f name="case" value="nominative"/>
+            <f name="person" value="first"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r121" anchors="1765 1766"/>
+    <node xml:id="coRef-n121">
+        <link targets="coRef-r121"/>
+    </node>
+    <a xml:id="a-5704" label="NounChunk" ref="coRef-n121" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n80"/>
+            <f name="graf:edge" value="penn-n325 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2669"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r123" anchors="1773 1776"/>
+    <node xml:id="coRef-n123">
+        <link targets="coRef-r123"/>
+    </node>
+    <a xml:id="a-5706" label="PRN" ref="coRef-n123" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1507"/>
+            <f name="string" value="she"/>
+            <f name="gender" value="female"/>
+            <f name="case" value="nominative"/>
+            <f name="person" value="third"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r122" anchors="1773 1776"/>
+    <node xml:id="coRef-n122">
+        <link targets="coRef-r122"/>
+    </node>
+    <a xml:id="a-5705" label="NounChunk" ref="coRef-n122" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n81"/>
+            <f name="graf:edge" value="penn-n327 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2670"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r125" anchors="1792 1793"/>
+    <node xml:id="coRef-n125">
+        <link targets="coRef-r125"/>
+    </node>
+    <a xml:id="a-5708" label="NounChunk" ref="coRef-n125" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n82"/>
+            <f name="graf:edge" value="penn-n332 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2672"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r124" anchors="1792 1793"/>
+    <node xml:id="coRef-n124">
+        <link targets="coRef-r124"/>
+    </node>
+    <a xml:id="a-5707" label="PRN" ref="coRef-n124" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1508"/>
+            <f name="string" value="I"/>
+            <f name="gender" value="either"/>
+            <f name="case" value="nominative"/>
+            <f name="person" value="first"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r127" anchors="1800 1803"/>
+    <node xml:id="coRef-n127">
+        <link targets="coRef-r127"/>
+    </node>
+    <a xml:id="a-5710" label="PRN" ref="coRef-n127" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1509"/>
+            <f name="string" value="she"/>
+            <f name="gender" value="female"/>
+            <f name="case" value="nominative"/>
+            <f name="person" value="third"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r126" anchors="1800 1803"/>
+    <node xml:id="coRef-n126">
+        <link targets="coRef-r126"/>
+    </node>
+    <a xml:id="a-5709" label="NounChunk" ref="coRef-n126" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n83"/>
+            <f name="graf:edge" value="penn-n334 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2675"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r129" anchors="1822 1825"/>
+    <node xml:id="coRef-n129">
+        <link targets="coRef-r129"/>
+    </node>
+    <a xml:id="a-5712" label="NounChunk" ref="coRef-n129" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n84"/>
+            <f name="graf:edge" value="penn-n340 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2676"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r128" anchors="1822 1825"/>
+    <node xml:id="coRef-n128">
+        <link targets="coRef-r128"/>
+    </node>
+    <a xml:id="a-5711" label="PRN" ref="coRef-n128" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1510"/>
+            <f name="string" value="she"/>
+            <f name="gender" value="female"/>
+            <f name="case" value="nominative"/>
+            <f name="person" value="third"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r130" anchors="1828 1846"/>
+    <node xml:id="coRef-n130">
+        <link targets="coRef-r130"/>
+    </node>
+    <a xml:id="a-5713" label="NounChunk" ref="coRef-n130" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n85"/>
+            <f name="graf:edge" value="penn-n344 penn-n343 penn-n342 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2678"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r131" anchors="1849 1860"/>
+    <node xml:id="coRef-n131">
+        <link targets="coRef-r131"/>
+    </node>
+    <a xml:id="a-5714" label="NounChunk" ref="coRef-n131" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n86"/>
+            <f name="graf:edge" value="penn-n349 penn-n348 penn-n347 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2679"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r132" anchors="1853 1860"/>
+    <node xml:id="coRef-n132">
+        <link targets="coRef-r132"/>
+    </node>
+    <a xml:id="a-5715" label="Person" ref="coRef-n132" as="anc">
+        <fs>
+            <f name="id" value="2680"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n27"/>
+            <f name="graf:edge" value="penn-n349 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r133" anchors="1877 1889"/>
+    <node xml:id="coRef-n133">
+        <link targets="coRef-r133"/>
+    </node>
+    <a xml:id="a-5716" label="NounChunk" ref="coRef-n133" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n87"/>
+            <f name="graf:edge" value="penn-n358 penn-n357 penn-n356 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2681"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r134" anchors="1892 1903"/>
+    <node xml:id="coRef-n134">
+        <link targets="coRef-r134"/>
+    </node>
+    <a xml:id="a-5717" label="NounChunk" ref="coRef-n134" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n88"/>
+            <f name="graf:edge" value="penn-n363 penn-n362 penn-n361 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2682"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r135" anchors="1896 1903"/>
+    <node xml:id="coRef-n135">
+        <link targets="coRef-r135"/>
+    </node>
+    <a xml:id="a-5718" label="Person" ref="coRef-n135" as="anc">
+        <fs>
+            <f name="id" value="2683"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n28"/>
+            <f name="graf:edge" value="penn-n363 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r136" anchors="1903 1921"/>
+    <node xml:id="coRef-n136">
+        <link targets="coRef-r136"/>
+    </node>
+    <a xml:id="a-5719" label="NounChunk" ref="coRef-n136" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n89"/>
+            <f name="graf:edge" value="penn-n366 penn-n365 penn-n364 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2684"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r137" anchors="1923 1941"/>
+    <node xml:id="coRef-n137">
+        <link targets="coRef-r137"/>
+    </node>
+    <a xml:id="a-5720" label="Person" ref="coRef-n137" as="anc">
+        <fs>
+            <f name="id" value="2686"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n29"/>
+            <f name="graf:edge" value="penn-n369 penn-n368 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r138" anchors="1923 1941"/>
+    <node xml:id="coRef-n138">
+        <link targets="coRef-r138"/>
+    </node>
+    <a xml:id="a-5721" label="NounChunk" ref="coRef-n138" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n90"/>
+            <f name="graf:edge" value="penn-n369 penn-n368 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2685"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r139" anchors="1948 1957"/>
+    <node xml:id="coRef-n139">
+        <link targets="coRef-r139"/>
+    </node>
+    <a xml:id="a-5722" label="NounChunk" ref="coRef-n139" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n91"/>
+            <f name="graf:edge" value="penn-n373 penn-n372 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2687"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r140" anchors="1963 1974"/>
+    <node xml:id="coRef-n140">
+        <link targets="coRef-r140"/>
+    </node>
+    <a xml:id="a-5723" label="NounChunk" ref="coRef-n140" as="anc">
+        <fs>
+            <f name="matches" value="[1512]"/>
+            <f name="id" value="2688"/>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n377 penn-n376 penn-n375 "/>
+            <f name="graf:id" value="nc-n92"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r141" anchors="1967 1974"/>
+    <node xml:id="coRef-n141">
+        <link targets="coRef-r141"/>
+    </node>
+    <a xml:id="a-5724" label="Person" ref="coRef-n141" as="anc">
+        <fs>
+            <f name="id" value="2689"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n30"/>
+            <f name="graf:edge" value="penn-n377 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r142" anchors="1979 1989"/>
+    <node xml:id="coRef-n142">
+        <link targets="coRef-r142"/>
+    </node>
+    <a xml:id="a-5725" label="NounChunk" ref="coRef-n142" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n93"/>
+            <f name="graf:edge" value="penn-n380 penn-n379 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2690"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r143" anchors="1993 2005"/>
+    <node xml:id="coRef-n143">
+        <link targets="coRef-r143"/>
+    </node>
+    <a xml:id="a-5726" label="NounChunk" ref="coRef-n143" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n94"/>
+            <f name="graf:edge" value="penn-n384 penn-n383 penn-n382 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2691"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r144" anchors="1998 2005"/>
+    <node xml:id="coRef-n144">
+        <link targets="coRef-r144"/>
+    </node>
+    <a xml:id="a-5727" label="Person" ref="coRef-n144" as="anc">
+        <fs>
+            <f name="id" value="2692"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n31"/>
+            <f name="graf:edge" value="penn-n384 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r145" anchors="2005 2033"/>
+    <node xml:id="coRef-n145">
+        <link targets="coRef-r145"/>
+    </node>
+    <a xml:id="a-5728" label="NounChunk" ref="coRef-n145" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n95"/>
+            <f name="graf:edge" value="penn-n388 penn-n387 penn-n386 penn-n385 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2693"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r146" anchors="2018 2024"/>
+    <node xml:id="coRef-n146">
+        <link targets="coRef-r146"/>
+    </node>
+    <a xml:id="a-5729" label="Organization" ref="coRef-n146" as="anc">
+        <fs>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n387 "/>
+            <f name="graf:id" value="ne-n32"/>
+            <f name="type" value="government"/>
+            <f name="id" value="152"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r147" anchors="2041 2044"/>
+    <node xml:id="coRef-n147">
+        <link targets="coRef-r147"/>
+    </node>
+    <a xml:id="a-5730" label="PRN" ref="coRef-n147" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1512"/>
+            <f name="string" value="she"/>
+            <f name="gender" value="female"/>
+            <f name="case" value="nominative"/>
+            <f name="person" value="third"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r148" anchors="2041 2044"/>
+    <node xml:id="coRef-n148">
+        <link targets="coRef-r148"/>
+    </node>
+    <a xml:id="a-5731" label="NounChunk" ref="coRef-n148" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n96"/>
+            <f name="graf:edge" value="penn-n392 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2695"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r149" anchors="2050 2061"/>
+    <node xml:id="coRef-n149">
+        <link targets="coRef-r149"/>
+    </node>
+    <a xml:id="a-5732" label="NounChunk" ref="coRef-n149" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n97"/>
+            <f name="graf:edge" value="penn-n395 penn-n394 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2697"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r150" anchors="2073 2084"/>
+    <node xml:id="coRef-n150">
+        <link targets="coRef-r150"/>
+    </node>
+    <a xml:id="a-5733" label="NounChunk" ref="coRef-n150" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n98"/>
+            <f name="graf:edge" value="penn-n400 penn-n399 penn-n398 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2698"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r151" anchors="2077 2084"/>
+    <node xml:id="coRef-n151">
+        <link targets="coRef-r151"/>
+    </node>
+    <a xml:id="a-5734" label="Person" ref="coRef-n151" as="anc">
+        <fs>
+            <f name="id" value="2699"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n33"/>
+            <f name="graf:edge" value="penn-n400 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r152" anchors="2097 2112"/>
+    <node xml:id="coRef-n152">
+        <link targets="coRef-r152"/>
+    </node>
+    <a xml:id="a-5735" label="Person" ref="coRef-n152" as="anc">
+        <fs>
+            <f name="id" value="2701"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n34"/>
+            <f name="graf:edge" value="penn-n405 penn-n404 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r153" anchors="2097 2112"/>
+    <node xml:id="coRef-n153">
+        <link targets="coRef-r153"/>
+    </node>
+    <a xml:id="a-5736" label="NounChunk" ref="coRef-n153" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n99"/>
+            <f name="graf:edge" value="penn-n405 penn-n404 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2700"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r154" anchors="2112 2131"/>
+    <node xml:id="coRef-n154">
+        <link targets="coRef-r154"/>
+    </node>
+    <a xml:id="a-5737" label="NounChunk" ref="coRef-n154" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n100"/>
+            <f name="graf:edge" value="penn-n408 penn-n407 penn-n406 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2702"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r155" anchors="2162 2173"/>
+    <node xml:id="coRef-n155">
+        <link targets="coRef-r155"/>
+    </node>
+    <a xml:id="a-5738" label="NounChunk" ref="coRef-n155" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n101"/>
+            <f name="graf:edge" value="penn-n411 penn-n410 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2703"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r156" anchors="2190 2196"/>
+    <node xml:id="coRef-n156">
+        <link targets="coRef-r156"/>
+    </node>
+    <a xml:id="a-5739" label="NounChunk" ref="coRef-n156" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n102"/>
+            <f name="graf:edge" value="penn-n412 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2704"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r157" anchors="2198 2201"/>
+    <node xml:id="coRef-n157">
+        <link targets="coRef-r157"/>
+    </node>
+    <a xml:id="a-5740" label="NounChunk" ref="coRef-n157" as="anc">
+        <fs>
+            <f name="matches" value="[1513]"/>
+            <f name="id" value="2705"/>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n414 "/>
+            <f name="graf:id" value="nc-n103"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r158" anchors="2198 2201"/>
+    <node xml:id="coRef-n158">
+        <link targets="coRef-r158"/>
+    </node>
+    <a xml:id="a-5741" label="Organization" ref="coRef-n158" as="anc">
+        <fs>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n414 "/>
+            <f name="graf:id" value="ne-n35"/>
+            <f name="type" value="newspaper/media"/>
+            <f name="id" value="164"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r159" anchors="2206 2209"/>
+    <node xml:id="coRef-n159">
+        <link targets="coRef-r159"/>
+    </node>
+    <a xml:id="a-5742" label="NounChunk" ref="coRef-n159" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n104"/>
+            <f name="graf:edge" value="penn-n417 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2708"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r160" anchors="2206 2209"/>
+    <node xml:id="coRef-n160">
+        <link targets="coRef-r160"/>
+    </node>
+    <a xml:id="a-5743" label="PRN" ref="coRef-n160" as="anc">
+        <fs>
+            <f name="number" value="singular"/>
+            <f name="cls" value="Thing"/>
+            <f name="case" value="possessive"/>
+            <f name="person" value="third"/>
+            <f name="string" value="its"/>
+            <f name="id" value="1513"/>
+            <f name="matches" value="[]"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r161" anchors="2210 2238"/>
+    <node xml:id="coRef-n161">
+        <link targets="coRef-r161"/>
+    </node>
+    <a xml:id="a-5744" label="NounChunk" ref="coRef-n161" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n105"/>
+            <f name="graf:edge" value="penn-n420 penn-n419 penn-n418 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2709"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r162" anchors="2210 2228"/>
+    <node xml:id="coRef-n162">
+        <link targets="coRef-r162"/>
+    </node>
+    <a xml:id="a-5745" label="Person" ref="coRef-n162" as="anc">
+        <fs>
+            <f name="id" value="2710"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n36"/>
+            <f name="graf:edge" value="penn-n419 penn-n418 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r163" anchors="2239 2249"/>
+    <node xml:id="coRef-n163">
+        <link targets="coRef-r163"/>
+    </node>
+    <a xml:id="a-5746" label="NounChunk" ref="coRef-n163" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n106"/>
+            <f name="graf:edge" value="penn-n422 penn-n421 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2711"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r164" anchors="2261 2290"/>
+    <node xml:id="coRef-n164">
+        <link targets="coRef-r164"/>
+    </node>
+    <a xml:id="a-5747" label="NounChunk" ref="coRef-n164" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n107"/>
+            <f name="graf:edge" value="penn-n429 penn-n428 penn-n427 penn-n426 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2712"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r165" anchors="2291 2294"/>
+    <node xml:id="coRef-n165">
+        <link targets="coRef-r165"/>
+    </node>
+    <a xml:id="a-5748" label="NounChunk" ref="coRef-n165" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n108"/>
+            <f name="graf:edge" value="penn-n430 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2713"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r166" anchors="2316 2326"/>
+    <node xml:id="coRef-n166">
+        <link targets="coRef-r166"/>
+    </node>
+    <a xml:id="a-5749" label="NounChunk" ref="coRef-n166" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n109"/>
+            <f name="graf:edge" value="penn-n435 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2714"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r167" anchors="2316 2326"/>
+    <node xml:id="coRef-n167">
+        <link targets="coRef-r167"/>
+    </node>
+    <a xml:id="a-5750" label="Person" ref="coRef-n167" as="anc">
+        <fs>
+            <f name="id" value="2715"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n37"/>
+            <f name="graf:edge" value="penn-n435 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r168" anchors="2330 2344"/>
+    <node xml:id="coRef-n168">
+        <link targets="coRef-r168"/>
+    </node>
+    <a xml:id="a-5751" label="NounChunk" ref="coRef-n168" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n110"/>
+            <f name="graf:edge" value="penn-n440 penn-n439 penn-n438 penn-n437 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2716"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r169" anchors="2350 2362"/>
+    <node xml:id="coRef-n169">
+        <link targets="coRef-r169"/>
+    </node>
+    <a xml:id="a-5752" label="NounChunk" ref="coRef-n169" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n111"/>
+            <f name="graf:edge" value="penn-n443 penn-n442 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2717"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r170" anchors="2350 2362"/>
+    <node xml:id="coRef-n170">
+        <link targets="coRef-r170"/>
+    </node>
+    <a xml:id="a-5753" label="Person" ref="coRef-n170" as="anc">
+        <fs>
+            <f name="id" value="2718"/>
+            <f name="gender" value="male"/>
+            <f name="graf:id" value="ne-n38"/>
+            <f name="graf:edge" value="penn-n443 penn-n442 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r172" anchors="2369 2372"/>
+    <node xml:id="coRef-n172">
+        <link targets="coRef-r172"/>
+    </node>
+    <a xml:id="a-5755" label="NounChunk" ref="coRef-n172" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n112"/>
+            <f name="graf:edge" value="penn-n445 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2719"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r171" anchors="2369 2372"/>
+    <node xml:id="coRef-n171">
+        <link targets="coRef-r171"/>
+    </node>
+    <a xml:id="a-5754" label="PRN" ref="coRef-n171" as="anc">
+        <fs>
+            <f name="type" value="anaphoric"/>
+            <f name="number" value="singular"/>
+            <f name="cls" value="Person"/>
+            <f name="person" value="third"/>
+            <f name="case" value="objective"/>
+            <f name="gender" value="female"/>
+            <f name="string" value="her"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r173" anchors="2374 2378"/>
+    <node xml:id="coRef-n173">
+        <link targets="coRef-r173"/>
+    </node>
+    <a xml:id="a-5756" label="NounChunk" ref="coRef-n173" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n113"/>
+            <f name="graf:edge" value="penn-n447 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2721"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r174" anchors="2403 2419"/>
+    <node xml:id="coRef-n174">
+        <link targets="coRef-r174"/>
+    </node>
+    <a xml:id="a-5757" label="NounChunk" ref="coRef-n174" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n114"/>
+            <f name="graf:edge" value="penn-n451 penn-n450 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2722"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r176" anchors="2423 2435"/>
+    <node xml:id="coRef-n176">
+        <link targets="coRef-r176"/>
+    </node>
+    <a xml:id="a-5759" label="NounChunk" ref="coRef-n176" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n115"/>
+            <f name="graf:edge" value="penn-n454 penn-n453 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2723"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r175" anchors="2423 2435"/>
+    <node xml:id="coRef-n175">
+        <link targets="coRef-r175"/>
+    </node>
+    <a xml:id="a-5758" label="Person" ref="coRef-n175" as="anc">
+        <fs>
+            <f name="id" value="2724"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n39"/>
+            <f name="graf:edge" value="penn-n454 penn-n453 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r177" anchors="2435 2454"/>
+    <node xml:id="coRef-n177">
+        <link targets="coRef-r177"/>
+    </node>
+    <a xml:id="a-5760" label="NounChunk" ref="coRef-n177" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n116"/>
+            <f name="graf:edge" value="penn-n457 penn-n456 penn-n455 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2725"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r178" anchors="2468 2473"/>
+    <node xml:id="coRef-n178">
+        <link targets="coRef-r178"/>
+    </node>
+    <a xml:id="a-5761" label="NounChunk" ref="coRef-n178" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n117"/>
+            <f name="graf:edge" value="penn-n460 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2726"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r180" anchors="2477 2487"/>
+    <node xml:id="coRef-n180">
+        <link targets="coRef-r180"/>
+    </node>
+    <a xml:id="a-5763" label="NounChunk" ref="coRef-n180" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n118"/>
+            <f name="graf:edge" value="penn-n462 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2727"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r179" anchors="2477 2487"/>
+    <node xml:id="coRef-n179">
+        <link targets="coRef-r179"/>
+    </node>
+    <a xml:id="a-5762" label="Person" ref="coRef-n179" as="anc">
+        <fs>
+            <f name="id" value="2728"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n40"/>
+            <f name="graf:edge" value="penn-n462 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r181" anchors="2487 2495"/>
+    <node xml:id="coRef-n181">
+        <link targets="coRef-r181"/>
+    </node>
+    <a xml:id="a-5764" label="NounChunk" ref="coRef-n181" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n119"/>
+            <f name="graf:edge" value="penn-n464 penn-n463 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2729"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r182" anchors="2498 2501"/>
+    <node xml:id="coRef-n182">
+        <link targets="coRef-r182"/>
+    </node>
+    <a xml:id="a-5765" label="NounChunk" ref="coRef-n182" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n120"/>
+            <f name="graf:edge" value="penn-n467 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2730"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r183" anchors="2505 2514"/>
+    <node xml:id="coRef-n183">
+        <link targets="coRef-r183"/>
+    </node>
+    <a xml:id="a-5766" label="NounChunk" ref="coRef-n183" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n121"/>
+            <f name="graf:edge" value="penn-n470 penn-n469 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2731"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r184" anchors="2518 2524"/>
+    <node xml:id="coRef-n184">
+        <link targets="coRef-r184"/>
+    </node>
+    <a xml:id="a-5767" label="Person" ref="coRef-n184" as="anc">
+        <fs>
+            <f name="id" value="2733"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n41"/>
+            <f name="graf:edge" value="penn-n472 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r185" anchors="2518 2524"/>
+    <node xml:id="coRef-n185">
+        <link targets="coRef-r185"/>
+    </node>
+    <a xml:id="a-5768" label="NounChunk" ref="coRef-n185" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n122"/>
+            <f name="graf:edge" value="penn-n472 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2732"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r186" anchors="2524 2533"/>
+    <node xml:id="coRef-n186">
+        <link targets="coRef-r186"/>
+    </node>
+    <a xml:id="a-5769" label="NounChunk" ref="coRef-n186" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n123"/>
+            <f name="graf:edge" value="penn-n474 penn-n473 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2734"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r187" anchors="2535 2548"/>
+    <node xml:id="coRef-n187">
+        <link targets="coRef-r187"/>
+    </node>
+    <a xml:id="a-5770" label="NounChunk" ref="coRef-n187" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n124"/>
+            <f name="graf:edge" value="penn-n477 penn-n476 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2735"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r188" anchors="2578 2591"/>
+    <node xml:id="coRef-n188">
+        <link targets="coRef-r188"/>
+    </node>
+    <a xml:id="a-5771" label="NounChunk" ref="coRef-n188" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n125"/>
+            <f name="graf:edge" value="penn-n485 penn-n484 penn-n483 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2736"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r189" anchors="2598 2608"/>
+    <node xml:id="coRef-n189">
+        <link targets="coRef-r189"/>
+    </node>
+    <a xml:id="a-5772" label="Person" ref="coRef-n189" as="anc">
+        <fs>
+            <f name="id" value="2738"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n42"/>
+            <f name="graf:edge" value="penn-n487 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r190" anchors="2598 2608"/>
+    <node xml:id="coRef-n190">
+        <link targets="coRef-r190"/>
+    </node>
+    <a xml:id="a-5773" label="NounChunk" ref="coRef-n190" as="anc">
+        <fs>
+            <f name="matches" value="[1519,1520]"/>
+            <f name="id" value="2737"/>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n487 "/>
+            <f name="graf:id" value="nc-n126"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r191" anchors="2614 2623"/>
+    <node xml:id="coRef-n191">
+        <link targets="coRef-r191"/>
+    </node>
+    <a xml:id="a-5774" label="NounChunk" ref="coRef-n191" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n127"/>
+            <f name="graf:edge" value="penn-n490 penn-n489 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2739"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r192" anchors="2614 2617"/>
+    <node xml:id="coRef-n192">
+        <link targets="coRef-r192"/>
+    </node>
+    <a xml:id="a-5775" label="PRN" ref="coRef-n192" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1519"/>
+            <f name="string" value="her"/>
+            <f name="gender" value="female"/>
+            <f name="case" value="possessive"/>
+            <f name="person" value="third"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r193" anchors="2640 2655"/>
+    <node xml:id="coRef-n193">
+        <link targets="coRef-r193"/>
+    </node>
+    <a xml:id="a-5776" label="NounChunk" ref="coRef-n193" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n128"/>
+            <f name="graf:edge" value="penn-n497 penn-n496 penn-n495 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2741"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r194" anchors="2640 2643"/>
+    <node xml:id="coRef-n194">
+        <link targets="coRef-r194"/>
+    </node>
+    <a xml:id="a-5777" label="PRN" ref="coRef-n194" as="anc">
+        <fs>
+            <f name="matches" value="[]"/>
+            <f name="id" value="1520"/>
+            <f name="string" value="her"/>
+            <f name="gender" value="female"/>
+            <f name="case" value="objective"/>
+            <f name="person" value="third"/>
+            <f name="cls" value="Person"/>
+            <f name="number" value="singular"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r195" anchors="2660 2671"/>
+    <node xml:id="coRef-n195">
+        <link targets="coRef-r195"/>
+    </node>
+    <a xml:id="a-5778" label="NounChunk" ref="coRef-n195" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n129"/>
+            <f name="graf:edge" value="penn-n501 penn-n500 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2743"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r196" anchors="2665 2671"/>
+    <node xml:id="coRef-n196">
+        <link targets="coRef-r196"/>
+    </node>
+    <a xml:id="a-5779" label="Person" ref="coRef-n196" as="anc">
+        <fs>
+            <f name="id" value="2744"/>
+            <f name="gender" value="male"/>
+            <f name="graf:id" value="ne-n43"/>
+            <f name="graf:edge" value="penn-n501 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r198" anchors="2676 2686"/>
+    <node xml:id="coRef-n198">
+        <link targets="coRef-r198"/>
+    </node>
+    <a xml:id="a-5781" label="NounChunk" ref="coRef-n198" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n130"/>
+            <f name="graf:edge" value="penn-n503 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2745"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r197" anchors="2676 2686"/>
+    <node xml:id="coRef-n197">
+        <link targets="coRef-r197"/>
+    </node>
+    <a xml:id="a-5780" label="Person" ref="coRef-n197" as="anc">
+        <fs>
+            <f name="id" value="2746"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n44"/>
+            <f name="graf:edge" value="penn-n503 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r199" anchors="2686 2696"/>
+    <node xml:id="coRef-n199">
+        <link targets="coRef-r199"/>
+    </node>
+    <a xml:id="a-5782" label="NounChunk" ref="coRef-n199" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n131"/>
+            <f name="graf:edge" value="penn-n505 penn-n504 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2747"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r201" anchors="2722 2732"/>
+    <node xml:id="coRef-n201">
+        <link targets="coRef-r201"/>
+    </node>
+    <a xml:id="a-5784" label="NounChunk" ref="coRef-n201" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n132"/>
+            <f name="graf:edge" value="penn-n513 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2749"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r200" anchors="2722 2732"/>
+    <node xml:id="coRef-n200">
+        <link targets="coRef-r200"/>
+    </node>
+    <a xml:id="a-5783" label="Organization" ref="coRef-n200" as="anc">
+        <fs>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n513 "/>
+            <f name="graf:id" value="ne-n45"/>
+            <f name="type" value="newspaper/media"/>
+            <f name="id" value="206"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r203" anchors="2744 2747"/>
+    <node xml:id="coRef-n203">
+        <link targets="coRef-r203"/>
+    </node>
+    <a xml:id="a-5786" label="NounChunk" ref="coRef-n203" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n133"/>
+            <f name="graf:edge" value="penn-n516 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2751"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r202" anchors="2744 2747"/>
+    <node xml:id="coRef-n202">
+        <link targets="coRef-r202"/>
+    </node>
+    <a xml:id="a-5785" label="Organization" ref="coRef-n202" as="anc">
+        <fs>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n516 "/>
+            <f name="graf:id" value="ne-n46"/>
+            <f name="type" value="newspaper/media"/>
+            <f name="id" value="208"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r204" anchors="2754 2795"/>
+    <node xml:id="coRef-n204">
+        <link targets="coRef-r204"/>
+    </node>
+    <a xml:id="a-5787" label="NounChunk" ref="coRef-n204" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n134"/>
+            <f name="graf:edge" value="penn-n523 penn-n522 penn-n521 penn-n520 penn-n519 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2752"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r205" anchors="2796 2800"/>
+    <node xml:id="coRef-n205">
+        <link targets="coRef-r205"/>
+    </node>
+    <a xml:id="a-5788" label="NounChunk" ref="coRef-n205" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n135"/>
+            <f name="graf:edge" value="penn-n524 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2753"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r206" anchors="2811 2821"/>
+    <node xml:id="coRef-n206">
+        <link targets="coRef-r206"/>
+    </node>
+    <a xml:id="a-5789" label="NounChunk" ref="coRef-n206" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n136"/>
+            <f name="graf:edge" value="penn-n528 penn-n527 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2754"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r208" anchors="2837 2849"/>
+    <node xml:id="coRef-n208">
+        <link targets="coRef-r208"/>
+    </node>
+    <a xml:id="a-5791" label="NounChunk" ref="coRef-n208" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n137"/>
+            <f name="graf:edge" value="penn-n533 penn-n532 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2756"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r207" anchors="2837 2849"/>
+    <node xml:id="coRef-n207">
+        <link targets="coRef-r207"/>
+    </node>
+    <a xml:id="a-5790" label="Person" ref="coRef-n207" as="anc">
+        <fs>
+            <f name="id" value="2755"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n47"/>
+            <f name="graf:edge" value="penn-n533 penn-n532 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r209" anchors="2849 2858"/>
+    <node xml:id="coRef-n209">
+        <link targets="coRef-r209"/>
+    </node>
+    <a xml:id="a-5792" label="NounChunk" ref="coRef-n209" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n138"/>
+            <f name="graf:edge" value="penn-n535 penn-n534 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2757"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r210" anchors="2858 2867"/>
+    <node xml:id="coRef-n210">
+        <link targets="coRef-r210"/>
+    </node>
+    <a xml:id="a-5793" label="NounChunk" ref="coRef-n210" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n139"/>
+            <f name="graf:edge" value="penn-n537 penn-n536 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2758"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r211" anchors="2884 2901"/>
+    <node xml:id="coRef-n211">
+        <link targets="coRef-r211"/>
+    </node>
+    <a xml:id="a-5794" label="NounChunk" ref="coRef-n211" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n140"/>
+            <f name="graf:edge" value="penn-n544 penn-n543 penn-n542 penn-n541 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2759"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r212" anchors="2889 2901"/>
+    <node xml:id="coRef-n212">
+        <link targets="coRef-r212"/>
+    </node>
+    <a xml:id="a-5795" label="Person" ref="coRef-n212" as="anc">
+        <fs>
+            <f name="id" value="2760"/>
+            <f name="gender" value="female"/>
+            <f name="graf:id" value="ne-n48"/>
+            <f name="graf:edge" value="penn-n544 penn-n543 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r213" anchors="2930 2956"/>
+    <node xml:id="coRef-n213">
+        <link targets="coRef-r213"/>
+    </node>
+    <a xml:id="a-5796" label="NounChunk" ref="coRef-n213" as="anc">
+        <fs>
+            <f name="matches" value="[1525]"/>
+            <f name="id" value="2761"/>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n553 penn-n552 penn-n551 penn-n550 "/>
+            <f name="graf:id" value="nc-n141"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r214" anchors="2934 2941"/>
+    <node xml:id="coRef-n214">
+        <link targets="coRef-r214"/>
+    </node>
+    <a xml:id="a-5797" label="Organization" ref="coRef-n214" as="anc">
+        <fs>
+            <f name="graf:set" value="xces"/>
+            <f name="graf:edge" value="penn-n551 "/>
+            <f name="graf:id" value="ne-n49"/>
+            <f name="type" value="newspaper/media"/>
+            <f name="id" value="220"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r216" anchors="2964 2967"/>
+    <node xml:id="coRef-n216">
+        <link targets="coRef-r216"/>
+    </node>
+    <a xml:id="a-5799" label="PRN" ref="coRef-n216" as="anc">
+        <fs>
+            <f name="number" value="singular"/>
+            <f name="cls" value="Thing"/>
+            <f name="case" value="possessive"/>
+            <f name="person" value="third"/>
+            <f name="string" value="Its"/>
+            <f name="id" value="1525"/>
+            <f name="matches" value="[]"/>
+            <f name="type" value="anaphoric"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r215" anchors="2964 2967"/>
+    <node xml:id="coRef-n215">
+        <link targets="coRef-r215"/>
+    </node>
+    <a xml:id="a-5798" label="NounChunk" ref="coRef-n215" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n142"/>
+            <f name="graf:edge" value="penn-n557 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2763"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r217" anchors="2968 2979"/>
+    <node xml:id="coRef-n217">
+        <link targets="coRef-r217"/>
+    </node>
+    <a xml:id="a-5800" label="NounChunk" ref="coRef-n217" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n143"/>
+            <f name="graf:edge" value="penn-n559 penn-n558 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2765"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r218" anchors="2983 2988"/>
+    <node xml:id="coRef-n218">
+        <link targets="coRef-r218"/>
+    </node>
+    <a xml:id="a-5801" label="NounChunk" ref="coRef-n218" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n144"/>
+            <f name="graf:edge" value="penn-n561 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2766"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r219" anchors="2995 3000"/>
+    <node xml:id="coRef-n219">
+        <link targets="coRef-r219"/>
+    </node>
+    <a xml:id="a-5802" label="NounChunk" ref="coRef-n219" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n145"/>
+            <f name="graf:edge" value="penn-n564 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2767"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r221" anchors="3046 3058"/>
+    <node xml:id="coRef-n221">
+        <link targets="coRef-r221"/>
+    </node>
+    <a xml:id="a-5804" label="NounChunk" ref="coRef-n221" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n146"/>
+            <f name="graf:edge" value="penn-n569 penn-n568 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2769"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r220" anchors="3046 3058"/>
+    <node xml:id="coRef-n220">
+        <link targets="coRef-r220"/>
+    </node>
+    <a xml:id="a-5803" label="Person" ref="coRef-n220" as="anc">
+        <fs>
+            <f name="id" value="2768"/>
+            <f name="gender" value="male"/>
+            <f name="graf:id" value="ne-n50"/>
+            <f name="graf:edge" value="penn-n569 penn-n568 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r223" anchors="3063 3074"/>
+    <node xml:id="coRef-n223">
+        <link targets="coRef-r223"/>
+    </node>
+    <a xml:id="a-5806" label="NounChunk" ref="coRef-n223" as="anc">
+        <fs>
+            <f name="graf:id" value="nc-n147"/>
+            <f name="graf:edge" value="penn-n572 penn-n571 "/>
+            <f name="graf:set" value="xces"/>
+            <f name="id" value="2771"/>
+        </fs>
+    </a>
+    <region xml:id="coRef-r222" anchors="3063 3074"/>
+    <node xml:id="coRef-n222">
+        <link targets="coRef-r222"/>
+    </node>
+    <a xml:id="a-5805" label="Person" ref="coRef-n222" as="anc">
+        <fs>
+            <f name="id" value="2770"/>
+            <f name="gender" value="unknown"/>
+            <f name="graf:id" value="ne-n51"/>
+            <f name="graf:edge" value="penn-n572 penn-n571 "/>
+            <f name="graf:set" value="xces"/>
+        </fs>
+    </a>
+</graph>
